@@ -40,7 +40,7 @@ height: 100px;
   position: relative;
   top: 15px;
   color:#7B8BAD;
-  line-height: 1.0;
+  //line-height: 1.0;
 }
 #text1 #button{
   width: 175px;
