@@ -12,18 +12,9 @@ header{
   align-items: center;
 
 }
-header #button1{
-  width: 40px;
-  height:40px;
-  background-color: #F16718;
-  border:none;
-  color: #FFF;
-  font-size:16px;
-  padding: 0px 10px 30px 0px;
-  //position: absolute;
-  //align-items: center;
-}
-header #button2{
+
+
+header #button{
   width: 175px;
   height:58px;
   border-radius: 8px;
@@ -34,7 +25,7 @@ header #button2{
   left: 895px;
 }
 
-header #button2:hover{
+header #button:hover{
 background-color:#162542;
 color:#FFF;
 }
@@ -74,7 +65,7 @@ height: 100px;
   left: 35px;
   color:#7B8BAD;
 }
-.button-release-align{
+.button-release-date-align{
   display: flex;
 }
 
