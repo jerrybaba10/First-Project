@@ -189,11 +189,11 @@ margin: 0px 164px 0px 170px;
   height:30px;
   background-color: #F16718;
   border:none;
-  border-radius:15px;
+  border-radius:10px;
   
 }
 .icon-resize{
-max-width: 2%;
+max-width: 5%;
   height:auto;
   padding: 15px;
   display:flex;
