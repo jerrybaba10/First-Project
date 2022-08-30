@@ -20,6 +20,7 @@ header #button{
   border-radius: 8px;
   border:none;
   background-color: #E8EFF2;
+  color:#162542;
   font-size:16px;
   position: relative;
   left: 895px;
@@ -32,6 +33,7 @@ color:#FFF;
 #text1{width: 420px;
 height: 100px;
   font-family: Barlow;
+  color:#162542;
   font-size:30px;
   margin: 190px 100px 0px 165px;
 }
@@ -182,6 +184,7 @@ margin: 0px 164px 0px 170px;
 }
 .grid-item {
   background-color: rgba(255, 255, 255, 0.8);
+  color:#162542;
   border:none; 
   padding: 5px;
 }
