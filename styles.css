@@ -238,7 +238,7 @@ footer{
 
 /* Medium devices (landscape tablets, 601px and up to 1200px) */
 
-@media only screen and (max-width: 1200px) {
+@media only screen and (min-width: 768px) {
 body{
   width: 768px;
   height: 2128px;
@@ -456,7 +456,7 @@ header{
 
 }
 header #button{
-  width: 150px;
+  width: 165px;
   height:48px;
   border-radius: 8px;
   border:none;
