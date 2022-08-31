@@ -182,7 +182,25 @@ height: 255px;
 gap: 15px; 
 margin: 0px 164px 0px 170px;
 }
-.grid-item {
+.grid-item1 {
+  background-color: rgba(255, 255, 255, 0.8);
+  color:#162542;
+  border:none; 
+  padding: 5px;
+}
+.grid-item2 {
+  background-color: rgba(255, 255, 255, 0.8);
+  color:#162542;
+  border:none; 
+  padding: 5px;
+}
+.grid-item3 {
+  background-color: rgba(255, 255, 255, 0.8);
+  color:#162542;
+  border:none; 
+  padding: 5px;
+}
+.grid-item4 {
   background-color: rgba(255, 255, 255, 0.8);
   color:#162542;
   border:none; 
@@ -370,7 +388,18 @@ top:650px;
   background-color: rgba(255, 255, 255, 0.8);
   border:none; 
 }
-.grid-item2 {
+  .grid-item2 {
+  background-color: rgba(255, 255, 255, 0.8);
+  border:none; 
+}
+.grid-item3 {
+  background-color: rgba(255, 255, 255, 0.8);
+  border:none; 
+  position:relative;
+top:300px;
+right: 800px;
+}
+  .grid-item4 {
   background-color: rgba(255, 255, 255, 0.8);
   border:none; 
   position:relative;
