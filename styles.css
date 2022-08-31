@@ -362,7 +362,7 @@ height: 255px;
   color:#162542;
   position:relative;
   top: 400px;
-  right:1000px;
+  right:1050px;
   /*685*/
   
 }
@@ -466,7 +466,7 @@ height: 100px;
   color:#7B8BAD;
 }
 #text1 #button{
-  width: 150px;
+  width: 160px;/* 150 */
   height:48px;
   border-radius: 8px;
   border:none;
@@ -498,7 +498,7 @@ height: 100px;
   height: 331px;
 background-color: #D8D8D8;
   border-radius: 10px 0px 0px 10px;
-  position: absolute;
+  position: relative; /*absolute*/
   top:460px;
   margin-left:24px;
   clip: rect(0px,372px,371px,0px);
@@ -550,7 +550,7 @@ height: 108px;
   color:#162542;
   position:relative;
   top: 230px;
-  right:320px;
+  right:520px; /*320*/
   text-align:center;
   
   
