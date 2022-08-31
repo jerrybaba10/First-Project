@@ -237,8 +237,8 @@ footer{
 
 
 
-/* Medium devices (landscape tablets, 768px and up) */
-@media only screen and (min-width: 768px) {
+/* Medium devices (landscape tablets, 601px and up to 1200px) */
+@media only screen and (max-width: 1200px) {
 body{
   width: 768px;
   height: 2128px;
@@ -362,15 +362,15 @@ height: 255px;
   color:#162542;
   position:relative;
   top: 400px;
-  right:685px;
-  
+  right:600px;
+  /*685*/
   
 }
 #keyboards-and-text #text #span{
   font-size:16px;
   position: relative;
   left: 300px;
-bottom: 100px;
+bottom: 150px; /*100*/
   color:#7B8BAD;
   width: 400px;
 }
@@ -424,7 +424,7 @@ footer{
 
 
 /* Extra small devices (phones, 600px and down) */
-@media only screen and (max-width: 767px){
+@media only screen and (max-width: 600px){
 body{
   width: 375px;
   height: 3007px;
