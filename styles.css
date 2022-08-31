@@ -423,6 +423,8 @@ footer{
 
 
 
+
+
 /* Extra small devices (phones, 600px and down) */
 @media only screen and (max-width: 600px){
 body{
@@ -498,10 +500,10 @@ height: 100px;
   height: 331px;
 background-color: #D8D8D8;
   border-radius: 10px 0px 0px 10px;
-  position: absolute;
+  position: relative; //absolute;
   top:460px;
   margin-left:0px;
-  right: 1500px;
+  //right: 1500px;
   clip: rect(0px,372px,371px,0px);
 }
 
@@ -572,7 +574,7 @@ top: 20px;
   grid-template-columns: 280px 280px 280px 280px;
 //gap: 15px; 
 grid-column-gap: 120px;
-margin-left: 120px;/*75*/
+//margin-left: 120px;/*75*/
 position:relative;
 top:950px;
 
