@@ -500,10 +500,9 @@ height: 100px;
   height: 331px;
 background-color: #D8D8D8;
   border-radius: 10px 0px 0px 10px;
-  position: relative; //absolute;
+  position: absolute;
   top:460px;
-  margin-left:0px;
-  //right: 1500px;
+  right: 500px;
   clip: rect(0px,372px,371px,0px);
 }
 
@@ -519,7 +518,7 @@ background-color: #D8D8D8;
   width: 129px;
   height: 193px;
   border-radius:8px;
-  position: absolute;
+  position: realtive; //absolute;
   //clip: rect(50px,6px,0px,30px);
   left: -40px;
 }
@@ -570,7 +569,7 @@ top: 20px;
 
 #bottom-grid-container{
   display: grid;
-  justify-content: center;
+  align-items: center;
   grid-template-columns: 280px 280px 280px 280px;
 //gap: 15px; 
 grid-column-gap: 120px;
