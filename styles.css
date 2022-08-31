@@ -466,7 +466,7 @@ height: 100px;
   color:#7B8BAD;
 }
 #text1 #button{
-  width: 160px;/* 150 */
+  width: 165px;/* 150 */
   height:48px;
   border-radius: 8px;
   border:none;
@@ -500,8 +500,8 @@ background-color: #D8D8D8;
   border-radius: 10px 0px 0px 10px;
   position: absolute;
   top:460px;
-  //margin-left:24px;
-  right: 800px;
+  margin-left:0px;
+  right: 1500px;
   clip: rect(0px,372px,371px,0px);
 }
 
@@ -568,6 +568,7 @@ top: 20px;
 
 #bottom-grid-container{
   display: grid;
+  justify-content: center;
   grid-template-columns: 280px 280px 280px 280px;
 //gap: 15px; 
 grid-column-gap: 120px;
