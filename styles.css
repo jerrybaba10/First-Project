@@ -502,7 +502,7 @@ background-color: #D8D8D8;
   border-radius: 10px 0px 0px 10px;
   position: relative; //absolute;
   top:460px;
-  right: 500px;
+  right: 1200px;
   //clip: rect(0px,372px,371px,0px);
 }
 
@@ -518,7 +518,7 @@ background-color: #D8D8D8;
   width: 129px;
   height: 193px;
   border-radius:8px;
-  position: relative; //absolute;
+  position: absolute;
   //clip: rect(50px,6px,0px,30px);
   left: -40px;
 }
