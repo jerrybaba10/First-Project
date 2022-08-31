@@ -313,7 +313,7 @@ height: 100px;
 background-color: #D8D8D8;
   border-radius: 10px 0px 0px 10px;
   position: absolute;
-  bottom: 80px;
+  bottom: 100px;
   left: 550px;
   clip: rect(0px,300px,450px,0px);
 }
@@ -456,12 +456,12 @@ header{
 
 }
 header #button{
-  width: 170px;
+  width: 165px;
   height:48px;
   border-radius: 8px;
   border:none;
   background-color: #E8EFF2;
-  font-size:16px;
+  font-size:15px;
   position: relative;
   left: 137px;
 }
