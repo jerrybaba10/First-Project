@@ -1,3 +1,5 @@
+/* Extra small devices (phones, 600px and down) */
+@media only screen and (min-width: 1201px){
 body{
   width: 1440px;
   height: 870px;
@@ -234,7 +236,7 @@ footer{
   top: 100px;
 }
 
-
+}
 
 
 /* Medium devices (landscape tablets, 601px and up to 1200px) */
@@ -425,8 +427,8 @@ footer{
 
 
 
-/* Extra small devices (phones, 600px and down) */
-@media only screen and (max-width: 600px){
+/* Extra small devices (phones, 600px and down) 
+@media only screen and (max-width: 600px){*/
 body{
   width: 375px;
   height: 3007px;
@@ -625,4 +627,4 @@ footer{
   position: relative;
   top: 1950px;
 }
-}
+
