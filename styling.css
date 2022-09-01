@@ -48,10 +48,11 @@ color:#FFF;
 
 #text1{
   font-family: Barlow;
+  font-style: normal;
+font-weight: 900;
   color:#162542;
   font-size:56px;
-  //margin: 190px 100px 0px 165px;
-
+line-height: 56px;
   position: absolute;
 width: 445px;
 height: 312px;
@@ -60,11 +61,16 @@ top: 256px;
 
 }
 #text1 #span{
-  font-size:18px;
+  font-family: 'Barlow';
+font-style: normal;
+font-weight: 500;
+font-size: 18px;
+line-height: 26px;
   position: relative;
   top: 15px;
   color:#7B8BAD;
 }
+
 #text1 #button{
   width: 175px;
   height:58px;
@@ -178,6 +184,8 @@ border-radius: 8px;
 #keyboards-and-text #text{
   font-size:32px;
   line-height: 36px;
+  font-weight: 900;
+  font-style: normal;
   color:#162542;
   position: absolute;
 width: 255px;
@@ -190,6 +198,9 @@ top: 818px;
   font-size:16px;
   line-height: 26px;
   color:#7B8BAD;
+  font-family: 'Barlow';
+font-style: normal;
+font-weight: 500;
 }
 
 
@@ -246,10 +257,14 @@ max-width: 10%;
 #bottom-grid-container #span1{
   font-size:24px;
   color:#7B8BAD;
+  font-weight: 900;
+  line-height: 28px;
 }
 #bottom-grid-container #span2{
   font-size:16px;
   color:#7B8BAD;
+  font-weight: 500;
+  line-height: 26px;
 }
 
 footer{
