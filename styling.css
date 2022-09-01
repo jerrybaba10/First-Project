@@ -34,7 +34,7 @@ header #button{
   color:#162542;
   font-size:16px;
   position: absolute;
-left: 932px;
+left: 934px;
 //top: 55px;
 
 
@@ -80,8 +80,8 @@ line-height: 26px;
   color:#FFF;
   font-size:16px;
   font-family: "Barlow", sans-serif;
-  position: relative;
-  top:45px;
+  position: absolute;
+  top:48px;
 }
 
 #text1 #button:hover{
@@ -90,7 +90,7 @@ line-height: 26px;
 #release-date{
   font-size:16px;
   position: relative;
-  top: 60px;
+  top: 55px;
   left: 35px;
   color:#7B8BAD;
 }
