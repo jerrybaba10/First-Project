@@ -15,7 +15,6 @@ height: 58px;
 left: 165px;
 top: 55px;
   display: flex;
-  background-color: cyan;
 }
 
 header #logo{
@@ -67,7 +66,7 @@ font-weight: 500;
 font-size: 18px;
 line-height: 26px;
   position: relative;
-  top: 15px;
+  top: 24px;
   color:#7B8BAD;
 }
 
