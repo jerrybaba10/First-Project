@@ -1,35 +1,50 @@
 
 body{
   width: 1440px;
-  height: 870px;
+  height: 1870px;
+  position: relative;
 font-family: "Barlow", sans-serif;
+  background-color: #FFFFFF;
 }
 header{
   width:1110px;
   height:58px;
-  margin: 55px 165px 0px 165px;
-  display: flex;
-  align-items: center;
+  //margin: 55px 165px 0px 165px;
+  //display: flex;
+  //align-items: center;
+  position: absolute;
+left: 165px;
+top: 55px;
 
 }
 
 
+
 header #button{
-  width: 175px;
-  height:58px;
+  //width: 175px;
+  //height:58px;
   border-radius: 8px;
   border:none;
   background-color: #E8EFF2;
   color:#162542;
   font-size:16px;
-  position: relative;
-  left: 895px;
+  //position: relative;
+  //left: 895px;
+  
+position: absolute;
+width: 175px;
+height: 58px;
+left: 1100px;
+top: 55px;
+
 }
 
 header #button:hover{
 background-color:#162542;
 color:#FFF;
 }
+
+
 #text1{width: 420px;
 height: 100px;
   font-family: Barlow;
