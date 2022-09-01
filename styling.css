@@ -221,7 +221,7 @@ gap: 15px;
 margin: 0px 164px 0px 170px;
   
   position: absolute;
-//left: 165px;
+left: 165px;
 top: 1354px;
 }
 
@@ -265,7 +265,11 @@ max-width: 10%;
   justify-content:center;
 }
 
-#bottom-grid-container #span{
+#bottom-grid-container #span1{
+  font-size:24px;
+  color:#7B8BAD;
+}
+#bottom-grid-container #span2{
   font-size:16px;
   color:#7B8BAD;
 }
