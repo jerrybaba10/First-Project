@@ -15,7 +15,7 @@ height: 58px;
 left: 165px;
 top: 55px;
   display: inline;
-  //align-items: center;
+  align-items: end; //change here
 }
 
 header #button{
