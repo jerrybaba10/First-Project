@@ -15,7 +15,14 @@ height: 58px;
 left: 165px;
 top: 55px;
   display: display;
-  align-items: end; //change here
+  //align-items: flex-end; //change here
+}
+header #logo{
+position: absolute;
+width: 40px;
+height: 40px;
+left: 165px;
+top: 64px;
 }
 
 header #button{
@@ -27,10 +34,9 @@ header #button{
   color:#162542;
   font-size:16px;
   position: absolute;
-//left: 735px; 
-//right: 0%;
-//top: 0%;
-//bottom: 0%;
+left: 1100px;
+top: 55px;
+
 
 }
 
