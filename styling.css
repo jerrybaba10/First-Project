@@ -29,7 +29,7 @@ header #button{
   //position: relative;
   //left: 895px;
   position: absolute;
-left: 165px;
+left: 735px; //165px;
 right: 0%;
 top: 0%;
 bottom: 0%;
@@ -165,8 +165,8 @@ height: 480px;
 width: 255px;
 position: absolute;
 top: 706px;;
-left: 165;
-//margin-left: 50px;
+//left: 165;
+margin-left: 50px; // change here
 opacity: 1;
 mix-blend-mode: multiply;
 border-radius:8px;
@@ -191,7 +191,7 @@ top: 706px;
   //font-family: "Barlow", sans-serif;
   font-size:32px;
   line-height: 36px;
-  text-transform: uppercase;
+  //text-transform: uppercase;
   color:#162542;
   //margin-left: 342px;
   
