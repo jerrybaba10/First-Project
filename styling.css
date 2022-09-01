@@ -140,7 +140,7 @@ background-color: #E8EFF2;
   position: absolute;
 width: 130px;
 height: 236px;
-left: 0px; //-120px
+left: 0px; /*-120px*/
 top: 950px;
 
 }
