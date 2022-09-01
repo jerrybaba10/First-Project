@@ -443,7 +443,7 @@ footer{
 
 /* Extra small devices (phones, 600px and down) */
 
-@media only screen and (max-width: 380px){
+@media only screen and (max-width: 600px){
 body{
   width: 375px;
   height: 3007px;
@@ -517,7 +517,7 @@ height: 100px;
   height: 331px;
 background-color: #D8D8D8;
   border-radius: 10px 0px 0px 10px;
-  position: relative; //absolute;
+  position: absolute;
   top:460px;
   right: 1200px;
   //clip: rect(0px,372px,371px,0px);
