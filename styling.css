@@ -205,7 +205,7 @@ font-weight: 500;
 #bottom-grid-container{
   display: grid;
   grid-template-columns: auto auto auto auto;
-  padding: 1px;
+  /*padding: 1px;*/
 gap: 15px;
   position: absolute;
 left: 165px;
@@ -216,7 +216,7 @@ top: 1354px;
   background-color: rgba(255, 255, 255, 0.8);
   color:#162542;
   border:none; 
-  padding: 5px;
+  /*padding: 5px;*/
 }
 .grid-item2 {
   background-color: rgba(255, 255, 255, 0.8);
