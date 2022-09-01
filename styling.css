@@ -27,14 +27,14 @@ height: 40px;
 
 header #button{
   width: 175px;
-  height:58px;
+  height:50px;
   border-radius: 8px;
   border:none;
   background-color: #E8EFF2;
   color:#162542;
   font-size:16px;
   position: absolute;
-left: 930px;
+left: 932px;
 //top: 55px;
 
 
@@ -81,7 +81,6 @@ line-height: 26px;
   font-size:16px;
   font-family: "Barlow", sans-serif;
   position: relative;
-  right: 0px;
   top:45px;
 }
 
@@ -91,7 +90,7 @@ line-height: 26px;
 #release-date{
   font-size:16px;
   position: relative;
-  top: 63px;
+  top: 60px;
   left: 35px;
   color:#7B8BAD;
 }
@@ -256,7 +255,7 @@ max-width: 10%;
 
 #bottom-grid-container #span1{
   font-size:24px;
-  color:#7B8BAD;
+  color:#162542;
   font-weight: 900;
   line-height: 28px;
 }
