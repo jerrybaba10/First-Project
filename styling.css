@@ -4,9 +4,6 @@ body{
   position: relative;
   width: 1440px;
   height: 1870px;
-left: -2909px;
-top: -1042px;
-
 font-family: "Barlow", sans-serif;
   background-color: #FFFFFF;
 }
@@ -127,14 +124,14 @@ height: 240px;
 left: 1305px;
 top: 196px;
 }
-
+/*
 #keyboards-and-text{
   display: flex;
   align-items: center;
   position: relative;
   bottom: 250px;
 
-}
+}*/
 #keyboards-and-text #button-like-edge-left{
 background-color: #E8EFF2;
   border-radius: 0px 8px 8px 0px;
@@ -167,7 +164,7 @@ height: 480px;
 //z-index: 1;
 width: 255px;
 position: absolute;
-top: 0;
+top: 706px;;
 left: 165;
 //margin-left: 50px;
 opacity: 1;
