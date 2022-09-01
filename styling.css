@@ -29,7 +29,7 @@ header #button{
   //position: relative;
   //left: 895px;
   position: absolute;
-left: 0%;
+left: 165px;
 right: 0%;
 top: 0%;
 bottom: 0%;
@@ -133,31 +133,40 @@ top: 196px;
 
 }
 #keyboards-and-text #button-like-edge-left{
-width:120px;
-  height: 210px;
 background-color: #E8EFF2;
   border-radius: 0px 8px 8px 0px;
-  position: relative;
-  top: 70px;
-  right: 6px;
+  //position: relative;
+  //top: 70px;
+  //right: 6px;
+  
+  position: absolute;
+width: 255px;
+height: 236px;
+left: -120px;
+top: 950px;
+
 }
 #keyboards-and-text #phone-and-keyboard{
-  width: 150px;
-  height: 350px;
   border-radius:8px;
-  margin-left: 50px;
+  //margin-left: 50px;
+  
+  position: absolute;
+width: 255px;
+height: 480px;
+left: 165px;
+top: 706px;
   
 }
 
 #phone-and-keyboard-overlay {
 background: #f16718;
-height: 350px;
+height: 480px;
 //z-index: 1;
-width: 150px;
+width: 255px;
 position: absolute;
 top: 0;
-//left: 10;
-margin-left: 50px;
+left: 165;
+//margin-left: 50px;
 opacity: 1;
 mix-blend-mode: multiply;
 border-radius:8px;
@@ -165,26 +174,42 @@ border-radius:8px;
 
 
  #keyboards-and-text #glass-and-keyboard{
-  width: 330px;
-  height: 350px;
+  
   border-radius: 8px;
-  margin-left: 25px;
+  //margin-left: 25px;
+   
+position: absolute;
+width: 445px;
+height: 480px;
+left: 450px;
+top: 706px;
+
 }
 
 #keyboards-and-text #text{
-width: 265px;
-height: 255px;
-  font-family: "Barlow", sans-serif;
-  font-size:30px;
+
+  //font-family: "Barlow", sans-serif;
+  font-size:32px;
+  line-height: 36px;
+  text-transform: uppercase;
   color:#162542;
-  margin-left: 342px;
+  //margin-left: 342px;
+  
+  position: absolute;
+width: 255px;
+height: 265px;
+left: 1020px;
+top: 818px;
   
 }
 #keyboards-and-text #text #span{
   font-size:16px;
-  position: relative;
-  top: 15px;
+  line-height: 26px;
+  //position: relative;
+  //top: 15px;
   color:#7B8BAD;
+  
+
 }
 
 
