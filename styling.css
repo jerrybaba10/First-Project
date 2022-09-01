@@ -21,7 +21,7 @@ header #logo{
 position: absolute;
 width: 40px;
 height: 40px;
-left: 165px;
+left: 0px;
 top: 64px;
 }
 
@@ -34,7 +34,7 @@ header #button{
   color:#162542;
   font-size:16px;
   position: absolute;
-left: 1100px;
+left: 925px;
 top: 55px;
 
 
@@ -225,7 +225,7 @@ gap: 15px;
 //margin: 0px 164px 0px 170px;
   
   position: absolute;
-//left: 165px;
+left: 165px;
 top: 1354px;
 }
 
