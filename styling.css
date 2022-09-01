@@ -14,15 +14,15 @@ width: 1110px;
 height: 58px;
 left: 165px;
 top: 55px;
-  display: display;
+  display: flex;
   background-color: cyan;
 }
 
 header #logo{
-position: absolute;
+//position: absolute;
 width: 40px;
 height: 40px;
-top: 64px;
+//top: 64px;
 }
 
 header #button{
@@ -34,8 +34,8 @@ header #button{
   color:#162542;
   font-size:16px;
   position: absolute;
-left: 1100px;
-top: 55px;
+left: 930px;
+//top: 55px;
 
 
 }
@@ -96,9 +96,6 @@ top: 256px;
 #black-keyboard{
   background-color: #D8D8D8;
   border-radius: 8px;
-  //position: relative;
-  //bottom: 170px;
-  //left: 775px;
   position: absolute;
 width: 540px;
 height: 480px;
@@ -118,10 +115,7 @@ top: 196px;
 
 #button-like-edge-right{
 background-color: #E8EFF2;
-  border-radius: 8px 0px 0px 8px;
-  //position: relative;
-  //bottom: 640px;
-  //left: 1315px;
+  border-radius: 20px 0px 0px 20px;
   position: absolute;
 width: 255px;
 height: 240px;
@@ -138,11 +132,7 @@ top: 196px;
 }*/
 #keyboards-and-text #button-like-edge-left{
 background-color: #E8EFF2;
-  border-radius: 0px 8px 8px 0px;
-  //position: relative;
-  //top: 70px;
-  //right: 6px;
-  
+  border-radius: 0px 20px 20px 0px;
   position: absolute;
 width: 255px;
 height: 236px;
@@ -165,12 +155,10 @@ top: 706px;
 #phone-and-keyboard-overlay {
 background: #f16718;
 height: 480px;
-//z-index: 1;
 width: 255px;
 position: absolute;
-top: 706px;;
-//left: 165;
-margin-left: 165px; // change here
+top: 706px;
+margin-left: 165px;
 opacity: 1;
 mix-blend-mode: multiply;
 border-radius:8px;
@@ -178,27 +166,19 @@ border-radius:8px;
 
 
  #keyboards-and-text #glass-and-keyboard{
-  
-  border-radius: 8px;
-  //margin-left: 25px;
-   
 position: absolute;
 width: 445px;
 height: 480px;
 left: 450px;
 top: 706px;
+border-radius: 8px;
 
 }
 
 #keyboards-and-text #text{
-
-  //font-family: "Barlow", sans-serif;
   font-size:32px;
   line-height: 36px;
-  //text-transform: uppercase;
   color:#162542;
-  //margin-left: 342px;
-  
   position: absolute;
 width: 255px;
 height: 265px;
@@ -209,11 +189,7 @@ top: 818px;
 #keyboards-and-text #text #span{
   font-size:16px;
   line-height: 26px;
-  //position: relative;
-  //top: 15px;
   color:#7B8BAD;
-  
-
 }
 
 
@@ -221,9 +197,7 @@ top: 818px;
   display: grid;
   grid-template-columns: auto auto auto auto;
   padding: 1px;
-gap: 15px; 
-//margin: 0px 164px 0px 170px;
-  
+gap: 15px;
   position: absolute;
 left: 165px;
 top: 1354px;
