@@ -1,6 +1,6 @@
 /* Medium devices (landscape tablets, 601px and up to 1200px) */
 
-//@media only screen and (min-width: 1201px) {
+
 body{
   width: 1440px;
   height: 870px;
