@@ -14,7 +14,7 @@ width: 1110px;
 height: 58px;
 left: 165px;
 top: 55px;
-  display: inline;
+  display: display;
   align-items: end; //change here
 }
 
@@ -166,7 +166,7 @@ width: 255px;
 position: absolute;
 top: 706px;;
 //left: 165;
-margin-left: 50px; // change here
+margin-left: 165px; // change here
 opacity: 1;
 mix-blend-mode: multiply;
 border-radius:8px;
@@ -212,14 +212,19 @@ top: 818px;
 
 }
 
-/*
+
 #bottom-grid-container{
   display: grid;
   grid-template-columns: auto auto auto auto;
   padding: 1px;
 gap: 15px; 
 margin: 0px 164px 0px 170px;
+  
+  position: absolute;
+//left: 165px;
+top: 1354px;
 }
+
 .grid-item1 {
   background-color: rgba(255, 255, 255, 0.8);
   color:#162542;
@@ -270,7 +275,7 @@ footer{
   color:#7B8BAD;
   text-align:center;
   position: relative;
-  top: 100px;
+  top: 1805px;
 }
   
 
