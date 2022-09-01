@@ -26,13 +26,11 @@ header #button{
   background-color: #E8EFF2;
   color:#162542;
   font-size:16px;
-  //position: relative;
-  //left: 895px;
   position: absolute;
-left: 735px; //165px;
-right: 0%;
-top: 0%;
-bottom: 0%;
+//left: 735px; 
+//right: 0%;
+//top: 0%;
+//bottom: 0%;
 
 }
 
@@ -218,10 +216,10 @@ top: 818px;
   grid-template-columns: auto auto auto auto;
   padding: 1px;
 gap: 15px; 
-margin: 0px 164px 0px 170px;
+//margin: 0px 164px 0px 170px;
   
   position: absolute;
-left: 165px;
+//left: 165px;
 top: 1354px;
 }
 
@@ -656,7 +654,7 @@ top: 20px;
 //gap: 15px; 
 grid-column-gap: 120px;
 //margin-left: 120px;/*75*/
-position:relative;
+position:absolute;
 top:950px;
 
 }
