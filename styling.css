@@ -385,9 +385,9 @@ line-height: 26px;
   position: absolute;
 width: 300px;
 height: 425px;
-left: 547px;
+right: 0px; /* left:  547px;*/
 top: 160px;
-/*clip: rect(0px,300px,450px,0px);*/
+/*clip: rect(0px,300px,450px,0px); 547*/
 }
 
 
