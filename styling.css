@@ -293,11 +293,11 @@ font-family: "Barlow", sans-serif;
 header{
   position: absolute;
 width: 689px;
-height: 58px;
+height: 50px;
 left: 39px;
 top: 40px;
   display: flex;
-  background-color: #E8EFF2;
+  background-color: red;
   
 }
   
@@ -386,9 +386,9 @@ line-height: 26px;
 width: 478px;
 height: 425px;
 right: 0px; /* left:  547px;*/
-left: 447px;
+/*left: 447px;*/
 top: 160px;
-clip: rect(0px,300px,300px,0px); 
+clip: rect(0px,100px,0px,0px); 
 }
 
 
