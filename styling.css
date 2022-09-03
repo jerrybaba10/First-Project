@@ -293,7 +293,7 @@ font-family: "Barlow", sans-serif;
 header{
   position: absolute;
 width: 689px;
-height: 50px;
+height: 58px;
 left: 39px;
 top: 40px;
   display: flex;
@@ -308,13 +308,13 @@ height: 40px;
   
 header #button{
   width: 175px;
-  height:58px;
+  height:50px;
   border-radius: 8px;
   border:none;
   background-color: #E8EFF2;
   font-size:16px;
   position: absolute;
-  left: 554px;
+  left: 550px;
 }
 
 header #button:hover{
@@ -385,8 +385,8 @@ line-height: 26px;
   position: absolute;
 width: 478px;
 height: 425px;
-right: 0px; /* left:  547px;*/
-/*left: 447px;*/
+/*right: 0px;  left:  547px;*/
+left: 447px;
 top: 160px;
 clip: rect(0px,100px,0px,0px); 
 }
