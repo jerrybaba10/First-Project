@@ -699,7 +699,7 @@ height: 193px;
 width: 120px;
 position: absolute;
 top: 840px;
-margin-left: 24px;
+margin-left: 0px;
 opacity: 1;
 mix-blend-mode: multiply;
 border-radius:20px;
@@ -742,8 +742,8 @@ font-weight: 500;
   position:relative;
 width: 327px;
 height: 104px;
-left: 24px;
-top: 15px;
+left: 0px;
+top: 10px;
 } 
 
   
