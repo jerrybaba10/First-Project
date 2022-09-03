@@ -809,7 +809,7 @@ right: 800px;
 }*/
   
 #bottom-grid-container #span1{
-  position: absolute;
+  position: relative;
 width: 327px;
 height: 56px;
 left: 24px;
@@ -822,7 +822,7 @@ left: 24px;
 }
   
 #bottom-grid-container #span2{
-  position: absolute;
+  position: relative;
 width: 327px;
 height: 104px;
 left: 24px;
