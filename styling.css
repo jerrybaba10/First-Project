@@ -284,7 +284,7 @@ footer{
 
 /* Medium devices (landscape tablets,  max of 768px) */
 
-@media screen and (max-width: 768px) {
+@media screen only and (max-width: 900px) {
 body{
   max-width: 768px;
   margin: auto;
@@ -553,7 +553,7 @@ top: 2059px;
 
 /* Extra small devices (phones, 500px and down) */
 
-@media only screen and (max-width: 400px){
+@media only screen and (max-width: 600px){
 body{
   max-width: 400px;
   margin: auto;
