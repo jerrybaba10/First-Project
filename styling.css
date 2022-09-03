@@ -751,7 +751,7 @@ top: 10px;
   display: grid;
   /*align-items: center;*/
   justify-content:center;
-  grid-template-rows: 280px 280px 280px 280px;
+  grid-template-rows: 280px 280px 280px 280px 280px 280px 280px 280px 280px 280px 280px 280px;
 grid-column-gap: 110px;
 position:absolute;
 top:1455px;
