@@ -343,7 +343,7 @@ font-weight: 500;
 font-size: 16px;
 line-height: 26px;
   position: relative;
-  top: 5px;
+  top: 7px;
   color:#7B8BAD;
 }
 
@@ -358,7 +358,7 @@ line-height: 26px;
   font-size:16px;
   font-family: "Barlow", sans-serif;
   position: relative;
-  top:5px;
+  top:4px;
 }
 
   
@@ -371,7 +371,7 @@ line-height: 26px;
   position: relative;
   width: 127px;
   top: 5px;
-  left: 251px;
+  left: 37px;
   color:#7B8BAD;
 }
   
@@ -383,7 +383,7 @@ line-height: 26px;
   background-color: #D8D8D8;
   border-radius: 8px;
   position: absolute;
-width: 478px;
+width: 300px;
 height: 425px;
 left: 547px;
 top: 160px;
@@ -536,7 +536,7 @@ footer{
   font-size:16px;
   color:#7B8BAD;
   position: absolute;
-width: 272px;
+width: 275px;
 height: 26px;
 left: 247px;
 top: 2059px;
