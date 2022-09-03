@@ -751,7 +751,7 @@ top: 10px;
   display: grid;
   /*align-items: center;*/
   justify-content:center;
-  grid-template-rows: 280px 280px 280px 280px 280px 280px 280px 280px 280px 280px 280px 280px;
+  grid-template-columns: 280px 280px 280px 280px;
 grid-column-gap: 110px;
 position:absolute;
 top:1455px;
@@ -762,7 +762,7 @@ top:1455px;
   color:#162542;
   border:none; 
   position:absolute;
-  /*left: 24px; /*20 */
+  left: 24px; /*20 */
   width: 250px;
   text-align:center;
 }
@@ -771,8 +771,9 @@ top:1455px;
   color:#162542;
   border:none; 
    position:absolute;
-/*top:300px;
-right: 400px; */
+  left: 24px;
+top:300px;
+/*right: 400px; */
 width: 300px;
   text-align:center;
 }
@@ -781,8 +782,9 @@ width: 300px;
   color:#162542;
   border:none; 
   position:absolute;
-/*top:600px;
-right: 800px;/*800*/
+top:600px;
+/*right: 800px;/*800*/
+  left: 24px;
 width: 300px;
   text-align:center;
 }
@@ -792,8 +794,9 @@ width: 300px;
   color:#162542;
   border:none; 
   position:relative;
-/*top:900px;
-right: 1190px; */
+  left: 24px;
+top:900px;
+/*right: 1190px; */
 width: 300px;
   text-align:center;
 }
