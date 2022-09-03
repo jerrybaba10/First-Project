@@ -381,13 +381,13 @@ line-height: 26px;
   
   #black-keyboard{
   background-color: #D8D8D8;
-  border-radius: 10px;
+  border-radius: 10px 100px 100px 10px;
   position: absolute;
 width: 478px;
 height: 425px;
 left: 447px;
 top: 160px;
-clip: rect(0px,400px,1px,0px);
+/*clip: rect(0px,400px,1px,0px);*/
 }
 
 
