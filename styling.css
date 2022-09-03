@@ -390,7 +390,7 @@ width: 478px;
 height: 425px;
 left: 447px;
 top: 160px;
-clip: rect(0px,375px,478px,0px);
+clip: rect(0px,410px,478px,0px);
   
 }
 
@@ -659,8 +659,7 @@ width: 372px;
 height: 331px;
 left: 24px;
 top: 485px;
-
-/*clip: rect(0px,400px,1px,0px);*/
+clip: rect(0px,365px,331px,0px);
 }
 
 
