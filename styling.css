@@ -753,6 +753,7 @@ top: 10px;
 #bottom-grid-container{
   display: grid;
   align-items: center;
+  justify-content:center;
   grid-template-columns: 280px 280px 280px 280px;
 grid-column-gap: 120px;
 position:absolute;
