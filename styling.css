@@ -286,8 +286,10 @@ footer{
 @media screen and (max-width: 768px) {
 body{
   max-width: 768px;
+  margin: auto;
   height: 2128px;
 font-family: "Barlow", sans-serif;
+  
   
 }
 header{
@@ -555,9 +557,10 @@ top: 2059px;
   
 */
 
-@media only screen and (max-width: 500px){
+@media only screen and (max-width: 400px){
 body{
-  width: 375px;
+  max-width: 400px;
+  margin: auto;
   height: 3007px;
 font-family: "Barlow", sans-serif;
 }
@@ -614,7 +617,7 @@ font-weight: 500;
 font-size: 16px;
 line-height: 26px;
   position: relative;
-  top: 10px;
+  top: 15px;
   color:#7B8BAD;
 }
   
@@ -742,7 +745,7 @@ font-weight: 500;
   position:relative;
 width: 327px;
 height: 104px;
-left: 0px;
+left: -10px;
 top: 10px;
 } 
 
