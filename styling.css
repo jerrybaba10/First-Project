@@ -314,7 +314,7 @@ header #button{
   background-color: #E8EFF2;
   font-size:16px;
   position: absolute;
-  left: 550px;
+  left: 540px;
 }
 
 header #button:hover{
@@ -388,7 +388,7 @@ height: 425px;
 /*right: 0px;  left:  547px;*/
 left: 447px;
 top: 160px;
-clip: rect(0px,100px,0px,0px); 
+/*clip: rect(0px,100px,0px,0px);*/ 
 }
 
 
