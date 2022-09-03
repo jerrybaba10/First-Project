@@ -343,7 +343,7 @@ font-weight: 500;
 font-size: 16px;
 line-height: 26px;
   position: absolute;
-  top: 200px;
+  
   color:#7B8BAD;
 }
 
@@ -358,7 +358,7 @@ line-height: 26px;
   font-size:16px;
   font-family: "Barlow", sans-serif;
   position: absolute;
-  top:220px;
+  /*top:220px;*/
 }
 
   
@@ -370,7 +370,7 @@ line-height: 26px;
   font-size:16px;
   position: absolute;
   width: 127px;
-  top: 220px;
+  /*top: 220px;*/
   left: 251px;
   color:#7B8BAD;
 }
