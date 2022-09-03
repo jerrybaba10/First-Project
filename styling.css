@@ -285,7 +285,7 @@ footer{
 /*
 
 */
-@media only screen and (max-width: 770px) {
+@media only screen and (max-width: 1000px) {
 body{
   width: 768px;
   height: 2128px;
@@ -549,7 +549,7 @@ footer{
 
 /* Extra small devices (phones, 600px and down) */
 
-@media only screen and (max-width: 400px){
+@media only screen and (max-width: 600px){
 body{
   width: 375px;
   height: 3007px;
