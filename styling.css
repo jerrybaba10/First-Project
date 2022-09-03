@@ -297,7 +297,7 @@ height: 58px;
 left: 39px;
 top: 40px;
   display: flex;
-  background-color: red;
+  
   
 }
   
@@ -308,7 +308,7 @@ height: 40px;
   
 header #button{
   width: 175px;
-  height:50px;
+  height:58px;
   border-radius: 8px;
   border:none;
   background-color: #E8EFF2;
@@ -387,7 +387,7 @@ width: 478px;
 height: 425px;
 left: 447px;
 top: 160px;
-/*clip: rect(0px,100px,0px,0px);*/
+clip: rect(0px,100px,10px,0px);
 }
 
 
