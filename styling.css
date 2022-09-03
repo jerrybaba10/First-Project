@@ -285,7 +285,7 @@ footer{
 /*
 
 */
-@media only screen and (max-width: 1000px) {
+@media only screen and (max-width: 768px) {
 body{
   width: 768px;
   height: 2128px;
@@ -321,7 +321,7 @@ background-color:#162542;
 color:#FFF;
 }
   #text1{
-  font-family: Barlow;
+  font-family: "Barlow";
   font-style: normal;
 font-weight: 900;
   color:#162542;
@@ -336,7 +336,7 @@ top: 220px;
 }
   
   #text1 #span{
-  font-family: 'Barlow';
+  font-family: Barlow;
 font-style: normal;
 font-weight: 500;
 font-size: 16px;
@@ -388,7 +388,7 @@ width: 478px;
 height: 425px;
 left: 447px;
 top: 160px;
-clip: rect(0px,300px,450px,0px);
+/*clip: rect(0px,300px,450px,0px);*/
 }
 
 
