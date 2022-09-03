@@ -281,7 +281,7 @@ footer{
 
 
 
-/* Medium devices (landscape tablets, 601px and up to 1200px) */
+/* Medium devices (landscape tablets,  max of 768px) */
 
 @media screen and (max-width: 768px) {
 body{
@@ -550,172 +550,211 @@ top: 2059px;
 
 
 
-/* Extra small devices (phones, 600px and down) */
+/* Extra small devices (phones, 400px and down) */
+/*
+  
+*/
 
-@media only screen and (max-width: 600px){
+@media only screen and (max-width: 400px){
 body{
   width: 375px;
   height: 3007px;
 font-family: "Barlow", sans-serif;
 }
 header{
-  width:327px;
-  height:48px;
-  margin: 23px 24px 0px 24px;
+  position: absolute;
+width: 327px;
+height: 48px;
+left: 24px;
+top: 23px;
   display: flex;
-  align-items: center;
 
 }
+  
+  header #logo{
+width: 40px;
+height: 40px;
+}
+  
 header #button{
-  width: 165px;
+  width: 150px;
   height:48px;
   border-radius: 8px;
   border:none;
   background-color: #E8EFF2;
-  font-size:15px;
-  position: relative;
-  left: 137px;
+  color: #162542;
+  font-size:16px;
+  position: absolute;
+  left: 200.5px;
 }
 
 header #button:hover{
 background-color:#162542;
-color:#FFF;
 }
-#text1{width: 400px;
-height: 100px;
-  font-family: Barlow;
-  font-size:30px;
-  margin: 100px 0px 0px 24px;
+  
+  #text1{
+  font-family: "Barlow";
+  font-style: normal;
+font-weight: 900;
+  color:#162542;
+  font-size:48px;
+line-height: 48px;
+  position: absolute;
+width: 327px;
+height: 286px;
+left: 24px;
+top: 135px;
+
 }
-#text1 #span{
-  font-size:17.5px;
+  
+  #text1 #span{
+  font-family: 'Barlow';
+font-style: normal;
+font-weight: 500;
+font-size: 16px;
+line-height: 26px;
   position: relative;
-  top: 15px;
+  top: 7px;
   color:#7B8BAD;
 }
+  
 #text1 #button{
-  width: 165px;/* 150 */
+  width: 150px;
   height:48px;
   border-radius: 8px;
   border:none;
   background-color: #F16718;
   color:#FFF;
-  font-size:15px;
+  font-size:16px;
   font-family: "Barlow", sans-serif;
   position: relative;
-  right: 0px;
-  top:45px;
+  top:4px;
 }
+
 
 #text1 #button:hover{
   background-color:#ED872D;
 }
-#release-date{
+  #release-date{
   font-size:16px;
   position: relative;
-  top: 63px;
-  left: 35px;
+  width: 127px;
+  top: 5px;
+  left: 37px;
   color:#7B8BAD;
 }
+  
+  
 .button-release-align{
   display: flex;
 }
 
-#black-keyboard{
-  width:372px;
-  height: 331px;
-background-color: #D8D8D8;
-  border-radius: 10px 0px 0px 10px;
-  position: relative;
-  top:460px;
-  right: 1200px;
-  //clip: rect(0px,372px,371px,0px);
+  #black-keyboard{
+  background-color: #D8D8D8;
+  border-radius: 8px 0px 0px 8px;
+  position: absolute;
+width: 372px;
+height: 331px;
+left: 24px;
+top: 485px;
+
+/*clip: rect(0px,400px,1px,0px);*/
 }
-  
+
+
   #black-keyboard img{
   width: 372px;
   height: 331px;
   border-radius: 8px;
 }
 
-  #button-like-edge-right{
-  display: none;
+
+
+
+#button-like-edge-right{
+  display:none;
   }
   
-#keyboards-and-text{
-  display: flex;
-  align-items: center;
-  position: relative;
-  top: 600px;
-  
+ #keyboards-and-text{
 }
-
-  #keyboards-and-text #button-like-edge-left{
+  
+ #keyboards-and-text #button-like-edge-left{
    display: none;  
   }
+
   
 #keyboards-and-text #phone-and-keyboard{
-  width: 129px;
-  height: 193px;
-  border-radius:8px;
   position: absolute;
-  //clip: rect(50px,6px,0px,30px);
-  left: -40px;
+width: 120px;
+height: 193px;
+left: 0px;
+top: 840px;
+  border-radius:8px;
+  
 }
-
+  
 #phone-and-keyboard-overlay {
 background: #f16718;
-width: 129px;
 height: 193px;
-position: relative;
-top: 0;
-left: -40px;
+width: 120px;
+position: absolute;
+top: 625px;
+margin-left: 24px;
 opacity: 1;
 mix-blend-mode: multiply;
 border-radius:8px;
-
 }
 
 
  #keyboards-and-text #glass-and-keyboard{
-  width: 220px;
-  height: 193px;
-  border-radius: 8px;
-  margin-left: 30px;
+position: absolute;
+width: 220px;
+height: 193px;
+left: 131px;
+top: 840px;
+border-radius: 8px;
+
 }
 
 #keyboards-and-text #text{
+  font-size:32px;
+  line-height: 36px;
+  font-weight: 900;
+  font-style: normal;
+  text-align: center;
+  color:#162542;
+  position: absolute;
 width: 255px;
 height: 108px;
-  font-family: "Barlow", sans-serif;
-  font-size:30px;
-  color:#162542;
-  position:relative;
-  top: 230px;
-  right:670px; /*320*/
-  text-align:center;
-  
+left: 60px;
+top: 1108px;
   
 }
+  
 #keyboards-and-text #text #span{
   font-size:16px;
-  position: relative;
-  left: -30px;
-top: 20px;
+  line-height: 26px;
   color:#7B8BAD;
-  width: 350px;
-  text-align:center;
-}
+  font-family: 'Barlow';
+font-style: normal;
+font-weight: 500;
+  position: absolute;
+width: 327px;
+height: 104px;
+left: 24px;
+top: 15px;
+} 
+
+  
+
 
 #bottom-grid-container{
   display: grid;
   align-items: center;
   grid-template-columns: 280px 280px 280px 280px;
-//gap: 15px; 
 grid-column-gap: 120px;
-//margin-left: 120px;/*75*/
 position:absolute;
-top:950px;
+top:1455px;
 
 }
 .grid-item1 {
@@ -761,9 +800,11 @@ width: 300px;
 footer{
   font-size:16px;
   color:#7B8BAD;
-  text-align:center;
-  position: relative;
-  top: 1950px;
+  position: absolute;
+width: 272px;
+height: 26px;
+left: 51px;
+top: 2931px;
 }
 
 }
