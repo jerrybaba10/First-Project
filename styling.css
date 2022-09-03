@@ -550,12 +550,12 @@ top: 2059px;
 
 
 
-/* Extra small devices (phones, 400px and down) */
+/* Extra small devices (phones, 500px and down) */
 /*
   
 */
 
-@media only screen and (max-width: 400px){
+@media only screen and (max-width: 500px){
 body{
   width: 375px;
   height: 3007px;
@@ -577,7 +577,7 @@ height: 40px;
 }
   
 header #button{
-  width: 150px;
+  width: 155px;
   height:48px;
   border-radius: 8px;
   border:none;
@@ -614,7 +614,7 @@ font-weight: 500;
 font-size: 16px;
 line-height: 26px;
   position: relative;
-  top: 7px;
+  top: 10px;
   color:#7B8BAD;
 }
   
@@ -651,7 +651,7 @@ line-height: 26px;
 
   #black-keyboard{
   background-color: #D8D8D8;
-  border-radius: 8px 0px 0px 8px;
+  border-radius: 10px 0px 0px 10px;
   position: absolute;
 width: 372px;
 height: 331px;
@@ -689,7 +689,7 @@ width: 120px;
 height: 193px;
 left: 0px;
 top: 840px;
-  border-radius:8px;
+  border-radius:20px;
   
 }
   
@@ -698,11 +698,11 @@ background: #f16718;
 height: 193px;
 width: 120px;
 position: absolute;
-top: 625px;
+top: 840px;
 margin-left: 24px;
 opacity: 1;
 mix-blend-mode: multiply;
-border-radius:8px;
+border-radius:20px;
 }
 
 
@@ -712,7 +712,7 @@ width: 220px;
 height: 193px;
 left: 131px;
 top: 840px;
-border-radius: 8px;
+border-radius: 20px;
 
 }
 
@@ -721,7 +721,7 @@ border-radius: 8px;
   line-height: 36px;
   font-weight: 900;
   font-style: normal;
-  text-align: center;
+   text-align: center;
   color:#162542;
   position: absolute;
 width: 255px;
@@ -736,9 +736,10 @@ top: 1108px;
   line-height: 26px;
   color:#7B8BAD;
   font-family: 'Barlow';
+   
 font-style: normal;
 font-weight: 500;
-  position: absolute;
+  position:relative;
 width: 327px;
 height: 104px;
 left: 24px;
