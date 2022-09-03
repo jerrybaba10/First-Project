@@ -653,13 +653,13 @@ line-height: 26px;
 
   #black-keyboard{
   background-color: #D8D8D8;
-  border-radius: 10px 0px 0px 10px;
+  border-radius: 20px 0px 0px 20px;
   position: absolute;
 width: 372px;
 height: 331px;
 left: 24px;
 top: 485px;
-clip: rect(0px,365px,331px,0px);
+clip: rect(0px,370px,331px,0px);
 }
 
 
