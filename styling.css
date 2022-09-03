@@ -754,7 +754,7 @@ top: 10px;
   grid-template-columns: 280px 280px 280px 280px;
 grid-column-gap: 110px;
 position:absolute;
-top:1455px;
+top:1460px;
 
 }
 .grid-item1 {
@@ -806,7 +806,7 @@ width: 300px;
   position: absolute;
 width: 50px;
 height: 30px;
-left: 153px;
+left: 152px;
     bottom:20px;
   background-color: #F16718;
   border:none;
@@ -814,8 +814,8 @@ left: 153px;
   
 }
 .icon-resize{
-max-width: 10%;
-  height:auto;
+width: 65;
+  height:65;
   padding: 10px;
   display:flex;
   justify-content:center;
