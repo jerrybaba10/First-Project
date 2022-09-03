@@ -749,10 +749,10 @@ top: 10px;
 
 #bottom-grid-container{
   display: grid;
-  align-items: center;
+  /*align-items: center;*/
   justify-content:center;
   grid-template-columns: 280px 280px 280px 280px;
-grid-column-gap: 120px;
+grid-column-gap: 150px;
 position:absolute;
 top:1455px;
 
@@ -813,7 +813,7 @@ right: 800px;
 width: 327px;
 height: 56px;
 left: 24px;
-/*top: 1568px;*/
+
   font-size:24px;
   color:#162542;
   font-weight: 900;
