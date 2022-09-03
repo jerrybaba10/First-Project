@@ -343,7 +343,7 @@ font-weight: 500;
 font-size: 16px;
 line-height: 26px;
   position: absolute;
-  top: 5px;
+  top: 225px;
   color:#7B8BAD;
 }
 
@@ -358,7 +358,7 @@ line-height: 26px;
   font-size:16px;
   font-family: "Barlow", sans-serif;
   position: absolute;
-  top:10px;
+  top:230px;
 }
 
   
@@ -370,7 +370,7 @@ line-height: 26px;
   font-size:16px;
   position: absolute;
   width: 127px;
-  top: 10px;
+  top: 230px;
   left: 251px;
   color:#7B8BAD;
 }
@@ -479,8 +479,8 @@ top: 15px;
 gap: 15px; 
 grid-column-gap: 120px;
 position: absolute;
-width: 631px;
-height: 650px;
+/*width: 631px;
+height: 650px;*/
 left: 39px;
 top: 1267px;
 
@@ -501,16 +501,16 @@ top: 1267px;
   color:#162542;
   border:none; 
 position: absolute;
-/*left: 39px;
-top: 1628px;*/
+left: 39px;
+top: 1628px;
 }
   .grid-item4 {
   background-color: rgba(255, 255, 255, 0.8);
     color:#162542;
   border:none; 
  position: absolute;
-/*left: 389px;*/
-/*top: 1628px;*/
+left: 389px;
+top: 1628px;
 }
   
 #bottom-grid-container #span1{
