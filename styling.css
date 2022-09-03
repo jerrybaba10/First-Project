@@ -752,7 +752,7 @@ top: 10px;
   /*align-items: center;*/
   justify-content:center;
   grid-template-columns: 280px 280px 280px 280px;
-grid-column-gap: 150px;
+grid-column-gap: 110px;
 position:absolute;
 top:1455px;
 
@@ -813,6 +813,7 @@ right: 800px;
 width: 327px;
 height: 56px;
 left: 24px;
+  top: 20px;
 
   font-size:24px;
   color:#162542;
@@ -825,6 +826,7 @@ left: 24px;
 width: 327px;
 height: 104px;
 left: 24px;
+  top: 20px;
 
   font-size:16px;
   color:#7B8BAD;
