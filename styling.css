@@ -384,20 +384,20 @@ line-height: 26px;
   
   #black-keyboard{
   background-color: #D8D8D8;
-  border-radius: 8px 300px 300px 8px;
+  border-radius: 10px 0px 0px 10px;
   position: absolute;
 width: 478px;
 height: 425px;
 left: 447px;
 top: 160px;
-/*clip: rect(0px,400px,1px,0px);*/
+clip: rect(0px,300px,300px,0px);
 }
 
 
 #black-keyboard img{
   width: 478px;
   height: 425px;
-  border-radius: 8px;
+  border-radius: 10px;
 }
 
 
@@ -420,7 +420,7 @@ width: 214px;
 height: 320px;
 left: 39px;
 top: 625px;
-  border-radius:8px;
+  border-radius:10px;
   
 }
   
@@ -433,7 +433,7 @@ top: 625px;
 margin-left: 39px;
 opacity: 1;
 mix-blend-mode: multiply;
-border-radius:8px;
+border-radius:10px;
 }
 
 
@@ -443,7 +443,7 @@ width: 445px;
 height: 320px;
 left: 283px;
 top: 625px;
-border-radius: 8px;
+border-radius: 10px;
 
 }
   
