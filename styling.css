@@ -802,7 +802,23 @@ width: 300px;
   text-align:center;
 }
   
+  #icon-container{
+  position: absolute;
+width: 65px;
+height: 65px;
+left: 155px;
+  background-color: #F16718;
+  border:none;
+  border-radius:10px;
   
+}
+.icon-resize{
+max-width: 65;
+  height:65;
+  padding: 10px;
+  display:flex;
+  justify-content:center;
+}
   
 #bottom-grid-container #span1{
   position: relative;
