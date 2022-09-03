@@ -287,7 +287,7 @@ footer{
 */
 @media screen and (max-width: 768px) {
 body{
-  width: 768px;
+  max-width: 768px;
   height: 2128px;
 font-family: "Barlow", sans-serif;
   
@@ -299,6 +299,8 @@ height: 58px;
 left: 39px;
 top: 40px;
   display: flex;
+  background-color: #E8EFF2;
+  
 }
   
   header #logo{
@@ -369,7 +371,7 @@ line-height: 26px;
 #release-date{
   font-size:16px;
   position: relative;
-  width: 127px;
+  width: 135px;
   top: 5px;
   left: 37px;
   color:#7B8BAD;
@@ -536,7 +538,7 @@ footer{
   font-size:16px;
   color:#7B8BAD;
   position: absolute;
-width: 275px;
+width: 285px;
 height: 26px;
 left: 247px;
 top: 2059px;
