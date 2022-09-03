@@ -806,16 +806,16 @@ width: 300px;
   position: absolute;
 width: 50px;
 height: 30px;
-left: 155px;
-    top:20px;
+left: 153px;
+    bottom:20px;
   background-color: #F16718;
   border:none;
   border-radius:10px;
   
 }
 .icon-resize{
-max-width: 65;
-  height:65;
+max-width: 10%;
+  height:auto;
   padding: 10px;
   display:flex;
   justify-content:center;
