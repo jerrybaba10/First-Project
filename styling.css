@@ -762,7 +762,7 @@ top:1455px;
   color:#162542;
   border:none; 
   position:relative;
-  left: 24px; /*20 */
+  left: 24px; 
   width: 250px;
   text-align:center;
 }
@@ -771,9 +771,9 @@ top:1455px;
   color:#162542;
   border:none; 
    position:relative;
-  left: -300px;
+  
 top:300px;
-/*right: 400px; */
+right: 400px; 
 width: 300px;
   text-align:center;
 }
@@ -782,9 +782,9 @@ width: 300px;
   color:#162542;
   border:none; 
   position:relative;
-  left: -300px;
+  
 top:600px;
-/*right: 800px;/*800*/
+right: 800px;/*800*/
   
 width: 300px;
   text-align:center;
@@ -795,9 +795,9 @@ width: 300px;
   color:#162542;
   border:none; 
   position:relative;
-  left: -300px;
+  
 top:900px;
-/*right: 1190px; */
+right: 1190px; 
 width: 300px;
   text-align:center;
 }
