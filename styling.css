@@ -343,7 +343,7 @@ font-weight: 500;
 font-size: 16px;
 line-height: 26px;
   position: relative;
-  top: 225px;
+  top: 5px;
   color:#7B8BAD;
 }
 
@@ -358,7 +358,7 @@ line-height: 26px;
   font-size:16px;
   font-family: "Barlow", sans-serif;
   position: relative;
-  top:230px;
+  top:5px;
 }
 
   
@@ -370,7 +370,7 @@ line-height: 26px;
   font-size:16px;
   position: relative;
   width: 127px;
-  top: 230px;
+  top: 5px;
   left: 251px;
   color:#7B8BAD;
 }
@@ -535,9 +535,11 @@ right: 800px;
 footer{
   font-size:16px;
   color:#7B8BAD;
-  text-align:center;
   position: absolute;
-  top: 2059px;
+width: 272px;
+height: 26px;
+left: 247px;
+top: 2059px;
 }
   
 }
