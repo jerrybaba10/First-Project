@@ -693,10 +693,10 @@ top: 840px;
 background: #f16718;
 height: 193px;
 width: 120px;
-position: fixed;
+position: absolute;
 top: 840px;
-/*margin-left: -30px;*/
-  left:-2px;
+margin-left: -30px;
+  
 opacity: 1;
 mix-blend-mode: multiply;
 border-radius:0px 20px 20px 0px;
