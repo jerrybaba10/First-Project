@@ -555,11 +555,11 @@ top: 2059px;
 @media only screen and (min-width: 320px) and (max-width: 480px){
 #main-container{
  width: 320px;
-  margin: 20px auto 0 400px;
+  margin: 20px auto 0 auto;
   height: 3037px;
 }
 header{
-  position: absolute;
+  position: relative;
 width: 327px;
 height: 48px;
 left: 24px;
@@ -581,7 +581,7 @@ header #button{
   background-color: #E8EFF2;
   color: #162542;
   font-size:16px;
-  position: absolute;
+  position: relative;
   left: 200.5px;
 }
 
@@ -596,7 +596,7 @@ font-weight: 900;
   color:#162542;
   font-size:48px;
 line-height: 48px;
-  position: absolute;
+  position: relative;
 width: 327px;
 height: 286px;
 left: 24px;
@@ -680,7 +680,7 @@ clip: rect(0px,370px,331px,0px);
 
   
 #keyboards-and-text #phone-and-keyboard{
-  position: absolute;
+  position: relative;
 width: 120px;
 height: 193px;
 left: -2px;
@@ -695,7 +695,7 @@ height: 193px;
 width: 120px;
 position: absolute;
 top: 840px;
-left: -2px;
+/*left: -2px;*/
 opacity: 1;
 mix-blend-mode: multiply;
 border-radius:0px 20px 20px 0px;
@@ -703,7 +703,7 @@ border-radius:0px 20px 20px 0px;
 
 
  #keyboards-and-text #glass-and-keyboard{
-position: absolute;
+position: relative;
 width: 220px;
 height: 193px;
 left: 131px;
@@ -719,7 +719,7 @@ border-radius: 20px;
   font-style: normal;
    text-align: center;
   color:#162542;
-  position: absolute;
+  position: relative;
 width: 255px;
 height: 108px;
 left: 58px;
