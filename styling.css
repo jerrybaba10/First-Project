@@ -694,12 +694,9 @@ background: #f16718;
 height: 193px;
 width: 120px;
 position: fixed;
-/*top: 840px;
-margin-left: -30px;*/
-  top: 0;
-  right:0;
-  left:0;
-  bottom:0;
+top: 840px;
+/*margin-left: -30px;*/
+  left:-2px;
 opacity: 1;
 mix-blend-mode: multiply;
 border-radius:0px 20px 20px 0px;
