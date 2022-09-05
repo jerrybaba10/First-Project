@@ -555,7 +555,7 @@ top: 2059px;
 @media only screen and (min-width: 320px) and (max-width: 480px){
 #main-container{
  width: 320px;
-  margin: 20px auto 0 auto;
+  margin: 20px auto 0 400px;
   height: 3037px;
 }
 header{
@@ -695,7 +695,7 @@ height: 193px;
 width: 120px;
 position: absolute;
 top: 840px;
-margin-left: -2px;
+left: -2px;
 opacity: 1;
 mix-blend-mode: multiply;
 border-radius:0px 20px 20px 0px;
