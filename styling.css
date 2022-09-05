@@ -624,7 +624,7 @@ line-height: 26px;
   color:#FFF;
   font-size:16px;
   font-family: "Barlow", sans-serif;
-  position: absolute;
+  position: relative;
   top:4px;
 }
 
@@ -634,7 +634,7 @@ line-height: 26px;
 }
   #release-date{
   font-size:16px;
-  position: absolute;
+  position: relative;
   width: 127px;
   top: 5px;
   left: 37px;
@@ -695,7 +695,7 @@ height: 193px;
 width: 120px;
 position: absolute;
 top: 840px;
-/*left: -2px;*/
+margin-left: -2.5px;
 opacity: 1;
 mix-blend-mode: multiply;
 border-radius:0px 20px 20px 0px;
@@ -735,7 +735,7 @@ top: 1108px;
    
 font-style: normal;
 font-weight: 500;
-  position:absolute;
+  position:relative;
 width: 327px;
 height: 104px;
 left: -15px;
