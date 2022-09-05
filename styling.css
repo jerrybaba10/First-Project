@@ -695,7 +695,7 @@ height: 193px;
 width: 120px;
 position: absolute;
 top: 840px;
-margin-left: -3px;
+margin-left: 0px;
 opacity: 1;
 mix-blend-mode: multiply;
 border-radius:0px 20px 20px 0px;
@@ -747,8 +747,8 @@ top: 10px;
 
 #bottom-grid-container{
   display: grid;
-  /*align-items: center;*/
-  justify-content:center;
+  /*align-items: center;
+  justify-content:center;*/
   grid-template-columns: 280px 280px 280px 280px;
 grid-column-gap: 120px;
 position:absolute;
