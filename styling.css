@@ -695,7 +695,7 @@ height: 193px;
 width: 120px;
 position: absolute;
 top: 840px;
-margin-left: -5px;
+margin-left: -20px;
 opacity: 1;
 mix-blend-mode: multiply;
 border-radius:0px 20px 20px 0px;
@@ -758,7 +758,7 @@ top:1480px;
   color:#162542;
   border:none; 
   position:relative;
-  left: -12px; 
+  left: -20px; 
   width: 250px;
   text-align:center;
 }
@@ -769,7 +769,7 @@ top:1480px;
    position:relative;
   
 top:300px;
-right: 410px; 
+right: 450px; 
 width: 300px;
   text-align:center;
 }
@@ -780,7 +780,7 @@ width: 300px;
   position:relative;
   
 top:600px;
-right: 807px;
+right: 857px;
   
 width: 300px;
   text-align:center;
@@ -793,7 +793,7 @@ width: 300px;
   position:relative;
   
 top:900px;
-right: 1198px; 
+right: 1238px; 
 width: 300px;
   text-align:center;
 }
