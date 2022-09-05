@@ -286,7 +286,7 @@ footer{
 
 /* Medium devices (landscape tablets,  max of 768px) */
 
-@media screen only and (min-width:481px) and (max-width: 786px) {
+@media screen only and (min-width:481px) and (max-width: 900px) {
 #main-container{
   width: 481px;
   margin: 20px auto 0 auto;
@@ -552,9 +552,9 @@ top: 2059px;
 
 /* Extra small devices (phones, 500px and down) */
 
-@media only screen and (min-width: 320px) and (max-width: 480px){
+@media only screen and (min-width: 200px) and (max-width: 480px){
 #main-container{
- width: 320px;
+ width: 200px;
   margin: 20px auto 0 auto;
   height: 3037px;
 }
