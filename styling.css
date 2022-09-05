@@ -559,7 +559,7 @@ top: 2059px;
   height: 3037px;
 }
 header{
-  position: relative;
+  position: absolute;
 width: 327px;
 height: 48px;
 left: 24px;
@@ -581,7 +581,7 @@ header #button{
   background-color: #E8EFF2;
   color: #162542;
   font-size:16px;
-  position: relative;
+  position: absolute;
   left: 200.5px;
 }
 
@@ -596,7 +596,7 @@ font-weight: 900;
   color:#162542;
   font-size:48px;
 line-height: 48px;
-  position: relative;
+  position: absolute;
 width: 327px;
 height: 286px;
 left: 24px;
@@ -624,7 +624,7 @@ line-height: 26px;
   color:#FFF;
   font-size:16px;
   font-family: "Barlow", sans-serif;
-  position: relative;
+  position: absolute;
   top:4px;
 }
 
@@ -634,7 +634,7 @@ line-height: 26px;
 }
   #release-date{
   font-size:16px;
-  position: relative;
+  position: absolute;
   width: 127px;
   top: 5px;
   left: 37px;
@@ -680,7 +680,7 @@ clip: rect(0px,370px,331px,0px);
 
   
 #keyboards-and-text #phone-and-keyboard{
-  position: relative;
+  position: absolute;
 width: 120px;
 height: 193px;
 left: -2px;
@@ -703,7 +703,7 @@ border-radius:0px 20px 20px 0px;
 
 
  #keyboards-and-text #glass-and-keyboard{
-position: relative;
+position: absolute;
 width: 220px;
 height: 193px;
 left: 131px;
@@ -719,7 +719,7 @@ border-radius: 20px;
   font-style: normal;
    text-align: center;
   color:#162542;
-  position: relative;
+  position: absolute;
 width: 255px;
 height: 108px;
 left: 58px;
@@ -735,7 +735,7 @@ top: 1108px;
    
 font-style: normal;
 font-weight: 500;
-  position:relative;
+  position:absolute;
 width: 327px;
 height: 104px;
 left: -15px;
