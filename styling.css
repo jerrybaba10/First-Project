@@ -1,12 +1,14 @@
 
 
 body{
-  
-  max-width: 1440px;
-  margin: auto;
-  height: 1870px;
 font-family: "Barlow", sans-serif;
   background-color: #FFFFFF;
+}
+
+#main-container{
+  max: 1440px;
+  margin: auto;
+  height: 1870px;
 }
 
 header{
@@ -285,13 +287,10 @@ footer{
 /* Medium devices (landscape tablets,  max of 768px) */
 
 @media screen only and (min-width:481px) and (max-width: 786px) {
-body{
+#main-container{
   width: 481px;
   margin: 20px auto 0 auto;
   height: 2128px;
-font-family: "Barlow", sans-serif;
-  
-  
 }
 header{
   position: absolute;
@@ -554,11 +553,10 @@ top: 2059px;
 /* Extra small devices (phones, 500px and down) */
 
 @media only screen and (min-width: 320px) and (max-width: 480px){
-body{
+#main-container{
  width: 320px;
   margin: 20px auto 0 auto;
   height: 3037px;
-font-family: "Barlow", sans-serif;
 }
 header{
   position: absolute;
