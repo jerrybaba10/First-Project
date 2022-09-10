@@ -73,7 +73,7 @@ margin: 0px;
 .icon-resize{
 width: 50;
   height:50;
-  padding: 10px;
+  padding: 15px;
   display:flex;
   justify-content:center;
 }
@@ -735,7 +735,7 @@ footer{
   position: absolute;
 width: 280px;
 height: 26px;
- margin-top:150px 0px 0px 35%;  
+ margin:150px 0px 0px 35%;  
 /*   text-align: center; */
 
 }
