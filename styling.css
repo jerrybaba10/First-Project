@@ -87,7 +87,7 @@ width: 50;
 }
   
   header #button {
-  margin-right: 20px;
+  margin-right: 30px;
 }
 
   #text1{
@@ -159,7 +159,7 @@ line-height: 26px;
 
   
 .container2 #phone-and-keyboard{
-width: auto;
+width: 129px;
 height: 193px;
 border-radius:0px 20px 20px 0px;
   margin-left: -45px;
@@ -168,7 +168,7 @@ border-radius:0px 20px 20px 0px;
 #phone-and-keyboard-overlay {
 background: #f16718;
 height: 193px;
-width: auto;
+width: 129px;
 margin: -193px 0px 0px -45px;
 opacity: 1;
 mix-blend-mode: multiply;
@@ -177,7 +177,7 @@ border-radius:0px 20px 20px 0px;
 
 
  .container2 #glass-and-keyboard{
-width: auto;
+width: 220;
 height: 193px;
 margin-left: 50px;
 border-radius: 20px;
@@ -189,10 +189,10 @@ border-radius: 20px;
   line-height: 36px;
    text-align: center;
   color:#162542;
-position: absolute;
+/* position: absolute; */
 width: 255px;
 height: 108px;
- margin:250px auto 0px auto;
+ margin:250px 10px 0px 0px;
   
 }
   
@@ -216,7 +216,7 @@ height: 104px;
   grid-template-columns: 280px 280px 280px 280px;
   gap: 20px;
 grid-column-gap: 80px;
-  margin:400px 0px 0px 0px;
+  margin:400px 10px 0px 0px;
   
 }
 .grid-item1 {
@@ -282,7 +282,7 @@ footer{
   color:#7B8BAD;
 width: 280px;
 height: 26px;
-margin:1000px 0px 0px 60px; 
+margin:1000px 0px 0px 50px; 
 
 }
   
@@ -292,6 +292,9 @@ margin:1000px 0px 0px 60px;
 
 @media only screen and (min-width:481px) and (max-width: 991px) {
 
+  #main-container{
+  margin: 39px;
+}
 
   header #button {
     margin-right: 50px;
@@ -402,7 +405,7 @@ border-radius:20px;
 
 width: 445px;
 height: 320px;
-margin-left: 30px;
+margin-left: 50px;
 border-radius: 20px;
 
 }
@@ -518,6 +521,10 @@ margin:400px 0px 0px 170px;
 /* Desktop or laptop screen size page  view*/
 
 @media only screen and (min-width:992px) {
+  
+  #main-container{
+  margin: 50px;
+}
   
   header #button {
     margin-right: 170px;
