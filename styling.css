@@ -3,6 +3,7 @@
 body{
 font-family: 'Barlow', sans-serif;
   font-style: normal;
+  font-weight:400;
   background-color: #FFF;
 }
 
@@ -99,6 +100,7 @@ width: 322px;
   
   #text1 #span{
 font-size: 15px;
+    font-weight:400;
 line-height: 26px;
   position: relative;
   top: 15px;
@@ -188,6 +190,7 @@ border-radius: 20px;
 .container2 #text{
   font-size:32px;
   line-height: 36px;
+  font-weight:800;
    text-align: center;
   color:#162542;
 position: absolute;
@@ -199,6 +202,7 @@ height: 108px;
   
 .container2 #text #span{
   font-size:16px;
+  font-weight:400;
   line-height: 26px;
   color:#7B8BAD;
 width: 327px;
@@ -268,6 +272,7 @@ margin-left: 110px;
 width: 327px;
 height: 56px;
   font-size:24px;
+  font-weight:800;
   color:#162542;
   font-weight: 900;
   line-height: 28px;
@@ -278,6 +283,7 @@ height: 56px;
 width: 322px;
 height: 104px;
   font-size:16px;
+  font-weight:400;
   color:#7B8BAD;
   line-height: 26px;
 }
