@@ -189,7 +189,7 @@ border-radius: 20px;
   line-height: 36px;
    text-align: center;
   color:#162542;
-/* position: absolute; */
+position: absolute;
 width: 255px;
 height: 108px;
  margin:250px 10px 0px 0px;
@@ -216,7 +216,7 @@ height: 104px;
   grid-template-columns: 280px 280px 280px 280px;
   gap: 20px;
 grid-column-gap: 80px;
-  margin:400px 10px 0px 0px;
+  margin:300px 10px 0px 0px;
   
 }
 .grid-item1 {
@@ -256,6 +256,10 @@ width: 300px;
 }
   
   
+  #icon-container{
+margin-left: 50px;
+}
+  
   
 #bottom-grid-container #span1{
   position: relative;
@@ -287,6 +291,10 @@ margin:1000px 0px 0px 50px;
 }
   
 }
+
+
+
+
 
 /* Tablet screen size page  view*/
 
