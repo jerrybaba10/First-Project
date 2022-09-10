@@ -172,7 +172,7 @@ border-radius:0px 20px 20px 0px;
 background: #f16718;
 height: 193px;
 width: 129px;
-margin: -193px 0px 0px -45px;
+margin: -195px 0px 0px -45px;
 opacity: 1;
 mix-blend-mode: multiply;
 border-radius:0px 20px 20px 0px;
@@ -340,7 +340,7 @@ line-height: 26px;
   
 #text1 #button {
   height:58px;
-   width: 170px;
+   width: 175px;
   padding: 8px;
   border-radius: 8px;
   border:none;
@@ -358,7 +358,7 @@ line-height: 26px;
   #release-date{
   font-size:16px;
   color:#7B8BAD;
-  margin-left: 30px;
+  margin-left: 35px;
     width: 170px;
 }
   
@@ -402,7 +402,7 @@ line-height: 26px;
 width: 214;
 height: 320px;
 border-radius:20px;
-  margin-left: auto;
+  margin-left: 0px;
   
 }
   
@@ -410,7 +410,7 @@ border-radius:20px;
 background: #f16718;
 height: 320px;
 width: 214;
-margin: -320px 0px 0px auto;
+margin: -320px 0px 0px 0px;
 opacity: 1;
 mix-blend-mode: multiply;
 border-radius:20px;
