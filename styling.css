@@ -192,7 +192,7 @@ border-radius: 20px;
 position: absolute;
 width: 255px;
 height: 108px;
- margin:250px 10px 0px 0px;
+ margin:250px 15px 0px 0px;
   
 }
   
@@ -216,9 +216,10 @@ height: 104px;
   grid-template-columns: 280px 280px 280px 280px;
   gap: 20px;
 grid-column-gap: 80px;
-  margin:300px 10px 0px 0px;
+  margin:350px 10px 0px 0px;
   
 }
+  
 .grid-item1 {
   color:#162542;
   border:none; 
@@ -257,7 +258,7 @@ width: 300px;
   
   
   #icon-container{
-margin-left: 50px;
+margin-left: 70px;
 }
   
   
@@ -286,7 +287,7 @@ footer{
   color:#7B8BAD;
 width: 280px;
 height: 26px;
-margin:1000px 0px 0px 50px; 
+margin:1000px 0px 0px 40px; 
 
 }
   
