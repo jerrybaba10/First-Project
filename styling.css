@@ -61,8 +61,8 @@ background-color:#162542;
 
 #icon-container{
   
-width: 50px;
-height: 30px;
+width: 65px;
+height: 65px;
 margin: 0px;
   background-color: #F16718;
   border:none;
@@ -71,8 +71,8 @@ margin: 0px;
 }
   
 .icon-resize{
-width: 70;
-  height:70;
+width: 50;
+  height:50;
   padding: 10px;
   display:flex;
   justify-content:center;
@@ -735,8 +735,8 @@ footer{
   position: absolute;
 width: 280px;
 height: 26px;
- margin-top:150px; /*0px 0px 35%;  */
-  text-align: center;
+ margin-top:150px 0px 0px 35%;  
+/*   text-align: center; */
 
 }
   
