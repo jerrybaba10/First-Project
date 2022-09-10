@@ -1,7 +1,7 @@
 /* CSS styles */
 
 body{
-font-family: "Barlow", sans-serif;
+font-family: 'Barlow', sans-serif;
   font-style: normal;
   background-color: #FFF;
 }
@@ -93,6 +93,7 @@ width: 50;
   #text1{
   color:#162542;
   font-size:46px;
+    font-weight:900;
 width: 322px;
 }
   
