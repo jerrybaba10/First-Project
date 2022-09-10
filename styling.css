@@ -340,8 +340,8 @@ line-height: 26px;
   
 #text1 #button {
   height:58px;
-   width: 175px;
-  padding: 0px;
+   width: 177px;
+  padding: 3px;
   border-radius: 8px;
   border:none;
   background-color: #F16718;
@@ -410,7 +410,7 @@ border-radius:20px;
 background: #f16718;
 height: 320px;
 width: 214;
-margin: -320px 0px 0px 0px;
+margin: -322px 0px 0px 0px;
 opacity: 1;
 mix-blend-mode: multiply;
 border-radius:20px;
