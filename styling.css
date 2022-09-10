@@ -58,6 +58,26 @@ background-color:#162542;
   
 }
 
+
+#icon-container{
+  
+width: 50px;
+height: 30px;
+margin: 0px;
+  background-color: #F16718;
+  border:none;
+  border-radius:10px;
+  
+}
+  
+.icon-resize{
+width: 70;
+  height:70;
+  padding: 10px;
+  display:flex;
+  justify-content:center;
+}
+
 /* phone view*/
 
 @media only screen and (min-width:250px) and (max-width: 480px) {
@@ -235,22 +255,7 @@ width: 300px;
   text-align:center;
 }
   
-  #icon-container{
-width: 65px;
-height: 65px;
-margin: 0px 0px 20px 120px;
-  background-color: #F16718;
-  border:none;
-  border-radius:10px;
   
-}
-.icon-resize{
-width: 70;
-  height:70;
-  padding: 10px;
-  display:flex;
-  justify-content:center;
-}
   
 #bottom-grid-container #span1{
   position: relative;
@@ -474,24 +479,7 @@ width: 300px;
   
 }
   
-  #icon-container{
   
-width: 65px;
-height: 65px;
-margin: 0px;
-  background-color: #F16718;
-  border:none;
-  border-radius:10px;
-  
-}
-  
-.icon-resize{
-width: 70;
-  height:70;
-  padding: 10px;
-  display:flex;
-  justify-content:center;
-}
   
 #bottom-grid-container #span1{
 width: 327px;
@@ -720,23 +708,7 @@ width: 300px;
 width: 300px;
 }
   
-  #icon-container{
-width: 65px;
-height: 65px;
-margin: 0px;
-  background-color: #F16718;
-  border:none;
-  border-radius:10px;
   
-}
-  
-.icon-resize{
-width: 70;
-  height:70;
-  padding: 10px;
-  display:flex;
-  justify-content:center;
-}
   
 #bottom-grid-container #span1{
 width: 327px;
@@ -763,7 +735,8 @@ footer{
   position: absolute;
 width: 280px;
 height: 26px;
-margin:150 0px 0px 35%;
+ margin-top:150px; /*0px 0px 35%;  */
+  text-align: center;
 
 }
   
