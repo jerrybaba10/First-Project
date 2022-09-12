@@ -543,7 +543,7 @@ margin:400px 0px 0px 170px;
 }
   
   header #button {
-    margin-right: 170px;
+    margin-right: 120px;
   }
   
    .container1{
@@ -603,7 +603,7 @@ line-height: 26px;
   height: 480px;
   border-radius: 10px;
     margin-top: 0px;
-    margin-left: 300px;
+    margin-left: 350px;
     position: relative;
     top:-30px;
 }
@@ -635,7 +635,7 @@ margin: -30px 0px 0px 50px;
 height: 236px;
    background-color: #E8EFF2;
   border-radius: 0px 20px 20px 0px;
-  margin: 240px 0px 0px -20px;
+  margin: 240px 0px 0px -50px;
    
   }
 
@@ -663,7 +663,7 @@ border-radius:20px;
 
 width: 445px;
 height: 480px;
-margin-left: 30px;
+margin-left: 40px;
 border-radius: 20px;
 
 }
@@ -677,7 +677,7 @@ border-radius: 20px;
   color:#162542;
 width: 255px;
 height: 265px;
- margin-left:125px;
+ margin-left:145px;
   
 }
   
