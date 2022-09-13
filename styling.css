@@ -222,6 +222,7 @@ height: 104px;
   gap: 20px;
 grid-column-gap: 80px;
   margin:350px 10px 0px 0px;
+  align-items:center;
   
 }
   
