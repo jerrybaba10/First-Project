@@ -309,14 +309,14 @@ margin:1000px 0px 0px 40px;
 @media only screen and (min-width:481px) and (max-width: 991px) {
 
   #main-container{
-  margin: 39px 0px 20px 60px;
+  margin: 39px 0px 20px 100px;
 }
   header{
  margin-left: 10px;
   }
   
   header #button {
-    margin-right: 0px;
+    margin-right: -20px;
     
   } 
   
