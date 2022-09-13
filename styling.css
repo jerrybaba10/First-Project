@@ -162,7 +162,7 @@ line-height: 26px;
 
   
 .container2 #phone-and-keyboard{
-width: 129px;
+width: 135px;
 height: 193px;
 border-radius:0px 20px 20px 0px;
   margin-left: -45px;
@@ -171,7 +171,7 @@ border-radius:0px 20px 20px 0px;
 #phone-and-keyboard-overlay {
 background: #f16718;
 height: 193px;
-width: 129px;
+width: 135px;
 margin: -195px 0px 0px -45px;
 opacity: 1;
 mix-blend-mode: multiply;
@@ -180,7 +180,7 @@ border-radius:0px 20px 20px 0px;
 
 
  .container2 #glass-and-keyboard{
-width: 220;
+width: 250;
 height: 193px;
 margin-left: 50px;
 border-radius: 20px;
@@ -276,6 +276,7 @@ height: 56px;
   color:#162542;
   font-weight: 900;
   line-height: 28px;
+  margin-left:10px;
 }
   
 #bottom-grid-container #span2{
