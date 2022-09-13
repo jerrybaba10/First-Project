@@ -13,7 +13,7 @@ font-family: 'Barlow', sans-serif;
 
 
 #main-container{
- width:80%;  
+ width:100%;  
   margin: 20px 30px;
   height: auto;
  
@@ -52,7 +52,7 @@ background-color:#162542;
 
 
   .container1{
-  width: 80%;
+  width: 100%;
   height: auto;
   left: auto;
   margin-top: 15%;
@@ -543,7 +543,7 @@ margin:400px 0px 0px 170px;
 }
   
   header #button {
-    margin-right: 150px;
+    margin-right: 100px;
   }
   
    .container1{
@@ -615,7 +615,7 @@ width: 130px;
 height: 240px;
   background-color: #E8EFF2;
   border-radius: 20px 0px 0px 20px;
-margin: -30px 0px 0px -40px;
+margin: -30px 0px 0px 50px;
 /*  50px;*/
   }
   
