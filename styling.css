@@ -426,7 +426,7 @@ border-radius:20px;
 
 width: 445px;
 height: 320px;
-margin-left: 70px;
+margin-left: 80px;
 border-radius: 20px;
 
 }
@@ -452,7 +452,7 @@ height: 108px;
   text-align: justify;
 width: 398px;
 height: 104px;
-   margin:-90px 0px 0px 310px; 
+   margin:-90px 0px 0px 320px; 
 
 } 
 
@@ -481,7 +481,7 @@ grid-column-gap: 120px;
   color:#162542;
   border:none; 
 width: 300px;
-  margin-left: 10px;
+  margin-left: 20px;
 }
 
 .grid-item3 {
@@ -499,7 +499,7 @@ width: 300px;
   border:none; 
   position:relative;
   top:300px;
-  left: -780px;
+  left: -770px;
 width: 300px;
   
 }
@@ -531,7 +531,7 @@ footer{
   position: absolute;
 width: 280px;
 height: 26px;
-margin:400px 0px 0px 190px; 
+margin:400px 0px 0px 200px; 
 
 }
 }
