@@ -548,16 +548,16 @@ margin:400px 0px 0px 200px;
 @media only screen and (min-width:1025px) {
   
   #main-container{
-    width:90%;  
+    width:70%;  
   margin: 50px 120px 20px 120px;
 }
   
   header #button {
-    margin-right: 185px;
+    margin-right: 180px;
   }
   
    .container1{
-     width:90%;  
+     width:70%;  
  display:flex;
   
 }
@@ -614,7 +614,7 @@ line-height: 26px;
   height: 480px;
   border-radius: 10px;
     margin-top: 0px;
-    margin-left: 270px; /*350px;*/
+    margin-left: 275px; /*270px;*/
     position: relative;
     top:-30px;
 }
