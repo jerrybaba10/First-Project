@@ -52,7 +52,7 @@ background-color:#162542;
 
 
   .container1{
-  width: auto; /*70%;*/
+/*   width: auto; 70%; */
   height: auto;
   left: auto;
   margin-top: 15%;
@@ -548,12 +548,12 @@ margin:400px 0px 0px 200px;
 @media only screen and (min-width:1025px) {
   
   #main-container{
-    margin: 50px 0px 0px 80px;
+    margin: 50px 165px 0px 165px;
 
 }
   
   header #button {
-    margin-right: 140px;
+    margin-right: 165px;
   }
   
    .container1{
@@ -637,7 +637,7 @@ margin: -30px 0px 0px 100px;
    margin-top: 50px;
    display:flex; 
    align-items: center;
-   margin-left: -295px;
+   margin-left: -195px;
 /*    -135px */
 }
   
