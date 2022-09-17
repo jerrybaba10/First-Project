@@ -312,8 +312,10 @@ margin:1000px 0px 0px 40px;
 @media only screen and (min-width:481px) and (max-width: 1024px) {
 
   #main-container{
+    width:50%;
   margin: 39px 0px 20px 100px;
 }
+  
   header{
  margin-left: 10px;
   }
