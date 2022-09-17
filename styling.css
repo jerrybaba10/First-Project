@@ -557,7 +557,7 @@ margin:400px 0px 0px 200px;
   }
   
    .container1{
-/* margin: 0px; */
+margin: 0px;
  display:flex;
   
 }
@@ -714,7 +714,7 @@ bottom container begins here */
   display: grid;
   grid-template-columns: 280px 280px 280px 280px;
   gap: 20px;
-grid-column-gap: 20px;
+grid-column-gap: 25px;
   margin:250px 0px 0px 0px;
   
 }
