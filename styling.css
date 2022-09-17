@@ -317,7 +317,7 @@ margin:1000px 0px 0px 40px;
 }
   
   header{
- margin-left: 10px;
+/*  margin-left: 10px; */
   }
   
   header #button {
@@ -327,7 +327,7 @@ margin:1000px 0px 0px 40px;
   
    .container1{
  display:flex;
-     margin-left: 10px;
+/*      margin-left: 10px; */
   
 }
   
@@ -383,7 +383,7 @@ line-height: 26px;
   height: 425px;
   border-radius: 10px;
     margin-top: 0px;
-    margin-left: 130px;
+    margin-left: 150px;
     position: relative;
     top:-30px;
 }
@@ -398,7 +398,7 @@ line-height: 26px;
 
  .container2{
    margin-top: 30px;
-   margin-left: 10px;
+/*    margin-left: 10px; */
    display:flex; 
    
 }
@@ -472,7 +472,7 @@ bottom container begins here */
   grid-template-columns: 280px 280px 280px 280px;
   gap: 15px;
 grid-column-gap: 120px;
-  margin:300px 0px 0px 10px;
+  margin:300px 0px 0px 0px;
   
 }
   
@@ -612,7 +612,7 @@ line-height: 26px;
 
   
   #img{
-/*     display: none; */
+
   width: 540;
   height: 480px;
   border-radius: 10px;
