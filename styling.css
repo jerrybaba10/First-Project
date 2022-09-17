@@ -557,7 +557,7 @@ margin:400px 0px 0px 200px;
   }
   
    .container1{
-/* margin: 0px; */
+margin: 0px;
  display:flex;
   
 }
@@ -615,7 +615,7 @@ line-height: 26px;
   height: 480px;
   border-radius: 10px;
     margin-top: 0px;
-    margin-left: 185px; /*270px;*/
+    margin-left: 230px; /*270px;*/
     position: relative;
     top:-30px;
 }
@@ -638,8 +638,8 @@ margin: -30px -255px 0px 30px;
    margin-top: 50px;
    display:flex; 
    align-items: center;
-   margin-left: -195px;
-/*    -135px */
+   margin-left: -150px;
+
 }
   
  .container2 #button-like-edge-left{
@@ -714,7 +714,7 @@ bottom container begins here */
   display: grid;
   grid-template-columns: 280px 280px 280px 280px;
   gap: 20px;
-grid-column-gap: 80px;
+grid-column-gap: 70px;
   margin:250px 0px 0px 0px;
   
 }
