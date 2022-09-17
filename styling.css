@@ -13,7 +13,7 @@ font-family: 'Barlow', sans-serif;
 
 
 #main-container{
- width:80%;  /*100%*/
+ width:85%;  /*100%*/
   margin: 20px 30px;
   height: auto;
  
@@ -52,7 +52,7 @@ background-color:#162542;
 
 
   .container1{
-  width: auto; /*70%;*/
+  width: 100%; /*70%;*/
   height: auto;
   left: auto;
   margin-top: 15%;
