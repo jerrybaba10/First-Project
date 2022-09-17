@@ -309,7 +309,7 @@ margin:1000px 0px 0px 40px;
 
 /* Tablet screen size page  view*/
 
-@media only screen and (min-width:481px) and (max-width: 1024px) {
+@media only screen and (min-width:481px) and (max-width: 900px) {
 
   #main-container{
     width:100%;
@@ -429,7 +429,7 @@ border-radius:20px;
 
  .container2 #glass-and-keyboard{
 
-width: 450px;
+width: 460px;
 height: 320px;
 margin-left: 90px;
 border-radius: 20px;
@@ -457,7 +457,7 @@ height: 108px;
   text-align: justify;
 width: 398px;
 height: 104px;
-   margin:-90px 0px 0px 320px; 
+   margin:-90px 0px 0px 330px; 
 
 } 
 
@@ -545,9 +545,9 @@ margin:400px 0px 0px 200px;
 
 
  
-/* Desktop or laptop screen size page  view. min-width:992px*/
+/* Desktop or laptop screen size page  view. min-width:1025px*/
 
-@media only screen and (min-width:1025px) {
+@media only screen and (min-width:901px) {
   
   #main-container{
     margin: 50px 120px 0px 120px;
