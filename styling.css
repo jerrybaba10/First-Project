@@ -309,7 +309,7 @@ margin:1000px 0px 0px 40px;
 
 /* Tablet screen size page  view*/
 
-@media only screen and (min-width:481px) and (max-width: 1024px) {
+@media only screen and (min-width:481px) and (max-width: 900px) {
 
   #main-container{
     width:90%;
@@ -539,6 +539,23 @@ height: 26px;
 margin:400px 0px 0px 200px; 
 
 }
+  
+  /* Tablet screen size page  view*/
+
+@media only screen and (min-width:901px) and (max-width: 1024px) {
+
+/*   #main-container{
+    width:90%;
+  margin: 39px 0px 20px 39px;
+} */
+  
+  
+  
+  header #button {
+    margin-right: 50px;
+    
+  } 
+  
 }
 
 
