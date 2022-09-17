@@ -539,8 +539,11 @@ height: 26px;
 margin:400px 0px 0px 200px; 
 
 }
-  
-  /* Tablet screen size page  view*/
+ 
+}
+
+
+/* Bigger Tablet screen size page  view*/
 
 @media only screen and (min-width:901px) and (max-width: 1024px) {
 
@@ -556,9 +559,6 @@ margin:400px 0px 0px 200px;
     
   } 
   
-}
-
-
 
 
  
