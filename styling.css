@@ -623,11 +623,11 @@ line-height: 26px;
 
 
 #button-like-edge-right{
-width: 255px;
+width: 130px;
 height: 240px;
   background-color: #E8EFF2;
   border-radius: 20px 0px 0px 10px;
-margin: -30px 0px 0px 20px;
+margin: -30px -30px 0px 0px;
 /*  50px; 45*/
   }
   
