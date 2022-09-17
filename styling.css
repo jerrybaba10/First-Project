@@ -638,7 +638,7 @@ margin: -30px -255px 0px 30px;
    margin-top: 0px;
    display:flex; 
    align-items: center;
-   margin-left: -300px;
+   margin-left: -295px;
 
 }
   
@@ -689,7 +689,7 @@ border-radius: 20px;
   color:#162542;
 width: 255px;
 height: 265px;
- margin-left:150px;
+ margin-left:160px;
   
 }
   
@@ -714,7 +714,7 @@ bottom container begins here */
   display: grid;
   grid-template-columns: 280px 280px 280px 280px;
   gap: 20px;
-grid-column-gap: 50px;
+grid-column-gap: 30px;
   margin:250px 0px 0px 0px;
   
 }
