@@ -1,14 +1,20 @@
 /* CSS styles */
 
+
+html {
+overflow-y: scroll;
+}
+
 body{
 font-family: 'Barlow', sans-serif;
   font-style: normal;
   font-weight:400;
   background-color: #FFF;
   
-  overflow-y: scroll; /* has to be scroll, not auto */
--webkit-overflow-scrolling: touch;
+/*   overflow-y: scroll; /* has to be scroll, not auto */
+-webkit-overflow-scrolling: touch; */
 }
+
 
 
 
