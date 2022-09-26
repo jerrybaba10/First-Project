@@ -2,7 +2,7 @@
 
 
 html, body {
-  width:90%;
+  width:100%;
 /*   height: 100%; */
 /*   margin:0;
   padding:0; */
@@ -328,7 +328,7 @@ margin:1000px 0px 0px 40px;
   
 
   #main-container{
-    width:90%;
+/*     width:90%; */
   margin: 39px 0px 20px 39px;
 }
   
@@ -563,7 +563,7 @@ margin:400px 0px 0px 200px;
 @media only screen and (min-width:901px) and (max-width: 1024px) {
 
 #main-container{
-    width:90%;
+/*     width:90%; */
   margin: 39px 0px 20px 39px;
 }
   
