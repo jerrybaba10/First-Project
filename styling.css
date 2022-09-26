@@ -7,9 +7,7 @@ font-family: 'Barlow', sans-serif;
   background-color: #FFF;
 }
 
-html {
-  overflow-x: hidden;
-}
+
 
 * {
   box-sizing: border-box;
@@ -314,6 +312,10 @@ margin:1000px 0px 0px 40px;
 /* Tablet screen size page  view*/
 
 @media only screen and (min-width:481px) and (max-width: 900px) {
+  
+  html {
+  overflow-x: hidden;
+}
 
   #main-container{
     width:80%;
