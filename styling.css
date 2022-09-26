@@ -5,6 +5,9 @@ font-family: 'Barlow', sans-serif;
   font-style: normal;
   font-weight:400;
   background-color: #FFF;
+  
+  overflow-y: scroll; /* has to be scroll, not auto */
+-webkit-overflow-scrolling: touch;
 }
 
 
@@ -313,9 +316,6 @@ margin:1000px 0px 0px 40px;
 
 @media only screen and (min-width:481px) and (max-width: 900px) {
   
-  html {
-  overflow-x: hidden;
-}
 
   #main-container{
     width:80%;
