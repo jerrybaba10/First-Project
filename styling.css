@@ -3,7 +3,7 @@
 
 html, body {
   max-width:100%;
-  height: 100.5%;
+/*   height: 100.5%; */
 overflow-x: hidden;
 /*   overflow-y: scroll; */
 }
@@ -460,6 +460,7 @@ position: fixed;
 width: 255px;
 height: 108px;
  margin:400px 0px 0px -20px;
+  overflow: clip;
   
 }
   
