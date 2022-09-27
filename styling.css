@@ -323,7 +323,7 @@ margin:1000px 0px 0px 40px;
   
 
   #main-container{
-/*     width:90%; */
+
   margin: 39px 0px 20px 39px;
 }
   
@@ -453,7 +453,7 @@ border-radius: 20px;
   line-height: 36px;
    text-align: center;
   color:#162542;
-position: fixed;
+position: relative;
 width: 255px;
 height: 108px;
  margin:400px 0px 0px -20px;
