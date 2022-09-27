@@ -328,7 +328,7 @@ margin:1000px 0px 0px 40px;
 }
   
    header{
-  margin-right: 50px; 
+  margin-right: 40px; 
   } 
   
   header #button {
@@ -393,7 +393,7 @@ line-height: 26px;
   height: 425px;
   border-radius: 20px;
     margin-top: 0px;
-    margin-left: 140px;
+    margin-left: 120px;
     position: relative;
     top:-30px;
 }
@@ -453,7 +453,7 @@ border-radius: 20px;
   line-height: 36px;
    text-align: center;
   color:#162542;
-position: absolute;
+position: fixed;
 width: 255px;
 height: 108px;
  margin:400px 0px 0px -20px;
