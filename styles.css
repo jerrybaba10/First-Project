@@ -394,7 +394,7 @@ margin-left: 35px;
   #text1{ 
   width: 399px;
     font-size:48px;
-    margin-top: 40px;
+    margin-top: 60px;
   }
   #text1 #button {
   height:48px;
@@ -419,7 +419,8 @@ margin-left: 35px;
   }
   
   .container2{
-  margin-top: 150px;
+/*     position: relative; */
+  margin-top: 90px;
   }
   
   .container2 #button-like-edge-left{
@@ -438,9 +439,6 @@ margin: -323px 0px 0px 0px;
 }
 
 
-  .container2{
-   margin-top: 90px;
-  }
   
  .container2 #glass-and-keyboard{
  width: 445px; /*545px;*/
@@ -463,13 +461,13 @@ margin: -323px 0px 0px 0px;
 /*     margin-left:/*300px;*/ */
     position:absolute;
 /*    right:60px; */
-    left:36px;
+/*     left:36px; */
 } 
 
   
   #bottom-grid-container{
     margin-top:142px;
-    column-gap: 100px;
+    column-gap: 120px;
     
   }
   
