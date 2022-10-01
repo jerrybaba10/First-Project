@@ -307,7 +307,7 @@ header #button {
   #release-date{
 /*   margin-left: 8px; */
    position: absolute;
-  right:42px
+  right:25px
 }
   #img{
     position: relative;
@@ -407,7 +407,7 @@ margin-left: 35px;
   
   #img{
     position: absolute;
-    width: 478px;
+    max-width: 100%; /*478px;*/
     right: 0px;
   } 
   
@@ -428,7 +428,7 @@ margin-left: 35px;
 #phone-and-keyboard-overlay {
 width: 260px;
   height:320px;
-margin: -320px 0px 0px 0px;
+margin: -323px 0px 0px 0px;
 }
 
 
@@ -437,7 +437,7 @@ margin: -320px 0px 0px 0px;
   }
   
  .container2 #glass-and-keyboard{
- width: 545px;
+ max-width: 100%; /*545px;*/
    height:320px;
    position:absolute;
    right:60px;
@@ -447,17 +447,19 @@ margin: -320px 0px 0px 0px;
   .container2 #text{
     display:flex;
     margin-top:80px;
-    width:900px;
+    width:689px; /*900px;*/
   }
   
   .container2 #text #span{
-    margin-left:300px;
+/*     margin-left:/*300px;*/ */
+    position:absolute;
+   right:60px;
 } 
 
   
   #bottom-grid-container{
     margin-top:142px;
-    column-gap: 30%;
+/*     column-gap: 30%; */
     
   }
   
