@@ -473,11 +473,10 @@ margin-top:120px;
 @media only screen and (min-width:901px) and (max-width: 1024px) {
   
   #text1 #button {
-  padding: 8px;
+/*   padding: 8px; */
   }
   
   #img{
-/*     position: absolute; */
     height: 425px;
     width: 478px;
   }
@@ -487,13 +486,11 @@ margin-top:120px;
   }
   
   .container2 #text #span{
- margin-left:250px;
+ margin-left:280px;
   }
   
   #bottom-grid-container{
-/*     margin-top:142px; */
-    column-gap: 260px;
-    
+    column-gap: 300px;
   }
   
 }
