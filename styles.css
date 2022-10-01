@@ -286,7 +286,7 @@ margin-top:50px;
 @media only screen and (min-width:250px) and (max-width: 480px) {
 
   #main-container{
-    margin: 23px auto 0px 20px;
+    margin: 23px auto 0px auto;
   }
   
 /* header #button {
@@ -307,7 +307,7 @@ margin-top:50px;
 }
   #img{
     position: relative;
-    max-width: 100%;
+    width: 372px;
     height:331px;
     right: -1px;
   } 
@@ -339,7 +339,7 @@ margin-top: -193px;
  width: 144px;
 /*  margin-left: 10px; */
    position: absolute;
-  right:10;
+  right:10px;
  }
   
   .container2 #text{
