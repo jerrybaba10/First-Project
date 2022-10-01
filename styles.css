@@ -292,7 +292,7 @@ margin-top:50px;
 header #button {
 /*   margin-right: 15px; */
   position: absolute;
-  right:15px;
+  right:24px;
 }
   #text1{
     width: 327px;
@@ -309,9 +309,9 @@ header #button {
 }
   #img{
     position: relative;
-    width: 400px;
+    width: 450px;
     height:331px;
-    right: 0px;
+    right: -2px;
 border-radius: 20px 0px 0px 10px;
   } 
   
@@ -343,12 +343,12 @@ margin-top: -196px;
  max-width: 100%;
 /*  margin-left: 10px; */
    position: absolute;
-  right:15px;
+  right:24px;
  }
   
   .container2 #text{
     margin-top:50px;
-    margin-left: 35px;
+    margin-left: 40px;
     text-align:center;
     font-size:32px;
   }
@@ -360,7 +360,7 @@ margin-top: -196px;
   #bottom-grid-container{
     margin-top:230px;
     text-align: center;
-margin-left: 30px;
+margin-left: 35px;
   }
   #bottom-grid-container #span1{
      font-size: 24px;
