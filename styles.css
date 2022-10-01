@@ -386,15 +386,15 @@ margin-left: 35px;
     margin: 40px 60px 20px 39px;
   }
   
-  header #button {
+/*   header #button {
     position:absolute;
    right: 60px;
-  }
+  } */
   
   #text1{ 
   width: 399px;
     font-size:48px;
-    margin-top: 10px;
+    margin-top: 40px;
   }
   #text1 #button {
   height:48px;
@@ -409,7 +409,7 @@ margin-left: 35px;
   #img{
     position: absolute;
     height: 421px;
-    max-width: 100%; /*478px;*/
+    max-width: 430px; /*478px;*/
     right: 0px;
     border-radius: 10px 0px 0px 10px;
   } 
@@ -418,6 +418,9 @@ margin-left: 35px;
     display:none;
   }
   
+  .container2{
+  margin-top: 100px;
+  }
   
   .container2 #button-like-edge-left{
     display: none;
@@ -429,7 +432,7 @@ margin-left: 35px;
   } 
   
 #phone-and-keyboard-overlay {
-width: 260px;
+width: 240px;
   height:320px;
 margin: -323px 0px 0px 0px;
 }
@@ -451,19 +454,21 @@ margin: -323px 0px 0px 0px;
     display:flex;
     margin-top:80px;
     width:689px; /*900px;*/
+    position:absolute;
+   right:60px;
   }
   
   .container2 #text #span{
 /*     margin-left:/*300px;*/ */
     position:absolute;
-   right:60px;
+/*    right:60px; */
     left:36px;
 } 
 
   
   #bottom-grid-container{
     margin-top:142px;
-    column-gap: 20%;
+    column-gap: 50px;
     
   }
   
