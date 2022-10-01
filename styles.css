@@ -371,18 +371,10 @@ margin-left: 35px;
 }
 
 
-/* Tablet screen size page  view  770px*/
-
-@media only screen and (min-width:481px) and (max-width: 770px) {
-  
-  
-  
-}
-
 
 /* Tablet screen size page  view  771 on */
 
-@media only screen and (min-width:771px) and (max-width: 1024px) {
+@media only screen and (min-width:481px) and (max-width: 1024px) {
 
   #main-container{
     margin: 40px 60px 20px 39px;
@@ -475,6 +467,14 @@ margin-top:120px;
 }
 }
 
+
+/* Tablet screen size page  view  770px*/
+
+@media only screen and (min-width:600px) and (max-width: 770px) {
+  
+  
+  
+}
 
 
 /* Bigger Tablet screen size page  view*/
