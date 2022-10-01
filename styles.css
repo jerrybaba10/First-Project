@@ -373,7 +373,7 @@ margin-left: 35px;
 
 /* Tablet screen size page  view  900px*/
 
-@media only screen and (min-width:481px) and (max-width: 1024px) {
+@media only screen and (min-width:481px) and (max-width: 900px) {
 
   #main-container{
     margin: 40px 60px 20px 39px;
@@ -465,6 +465,17 @@ margin: -323px 0px 0px 0px;
 margin-top:120px; 
 }
 }
+
+
+
+/* Bigger Tablet screen size page  view*/
+
+@media only screen and (min-width:901px) and (max-width: 1024px) {
+  
+  
+  
+}
+
 
 
 /* Desktop or laptop screen size page  view. min-width:1025px*/
