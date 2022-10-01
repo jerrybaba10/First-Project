@@ -75,6 +75,7 @@ background-color:#162542;
   
 .icon-resize{
 width: 32px;
+  height: 20px;
   padding: 15px;
 }
 
@@ -509,7 +510,7 @@ width: 120px;
   .container2 #button-like-edge-left{
     position: absolute;
    left: 0px;
-    top: 915px;
+    top: 910px;
   }
   
   .container2 #phone-and-keyboard{
@@ -520,7 +521,7 @@ width: 120px;
 #phone-and-keyboard-overlay {
 width: 255px;
   height:480px;
-margin-top: -480px;
+margin-top: -482px;
 }
   
  .container2 #glass-and-keyboard{
