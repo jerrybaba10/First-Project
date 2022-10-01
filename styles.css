@@ -444,15 +444,15 @@ margin: -323px 0px 0px 0px;
   .container2 #text{
     display:flex;
     margin-top:80px;
-    width:689px; /*900px;*/
+    width:900px; /*900px;*/
 /*     position:relative; */
 /*     top:80px; */
 /*    right:60px; */
   }
   
   .container2 #text #span{
-    width:398px;
- margin-left:50px;
+/*     width:398px; */
+ margin-left:20px;
 /*     position:absolute; */
     
 /*    right:60px; */
