@@ -386,10 +386,10 @@ margin-left: 35px;
     margin: 40px 60px 20px 39px;
   }
   
-/*   header #button {
+  header #button {
     position:absolute;
    right: 60px;
-  } */
+  }
   
   #text1{ 
   width: 399px;
@@ -450,20 +450,21 @@ margin: -323px 0px 0px 0px;
   
   .container2 #text{
     display:flex;
-/*     margin-top:80px; */
+    margin-top:80px;
     width:689px; /*900px;*/
-    position:relative;
-    top:80px;
+/*     position:relative; */
+/*     top:80px; */
 /*    right:60px; */
   }
   
   .container2 #text #span{
 /*  margin-left:250px; */
-    position:absolute;
-    right:60px; 
+/*     position:absolute; */
+    
 /*    right:60px; */
 /*     left:36px; */
-/*     position:relative; */
+    position:relative;
+     right:60px;
 } 
 
   
