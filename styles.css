@@ -300,16 +300,16 @@ margin-top:50px;
     font-size:14px;
   }
   #text1 #button {
-    padding: 4px;
+    padding: 8px;
   }
   #release-date{
   margin-left: 8px;
 }
   #img{
 /*     position: absolute; */
-    width: 102%;
+    width: 372px;
     height:331px;
-    margin-right: -5px;
+    margin-right: -2px;
 border-radius: 20px 0px 0px 10px;
   } 
   
