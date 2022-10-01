@@ -474,7 +474,7 @@ margin-top:120px;
   
   #img{
     height: 410px;
-    width: 380;
+    width: 300;
   }
   
   .container2 #phone-and-keyboard{
@@ -489,11 +489,11 @@ width: 214px;
   }
   
   .container2 #text #span{
- margin-left:80px;
+ margin-left:90px;
   }
 
   #bottom-grid-container{
-    column-gap: 80px;
+    column-gap: 100px;
   }
 }
 
