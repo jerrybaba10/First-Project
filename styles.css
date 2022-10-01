@@ -309,7 +309,8 @@ margin-top:50px;
     position: relative;
     max-width: 100%;
     height:331px;
-    right: -8px;
+    right: -10px;
+border-radius: 20px 0px 0px 10px;
   } 
   #button-like-edge-right{
     display:none;
@@ -321,7 +322,7 @@ margin-top:50px;
   
   .container2 #phone-and-keyboard{
     position: relative;
-    left:-12px;
+    left:-10px;
     width: 132px;
     border-radius:0px 20px 20px 0px;
 }
@@ -345,7 +346,7 @@ margin-top: -196px;
   .container2 #text{
 /*     margin-top:50px; */
     text-align:center;
-    position: absolute;
+    position: relative;
     top:50px;
   right:20%;
     font-size:32px;
