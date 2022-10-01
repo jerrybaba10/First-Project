@@ -290,22 +290,24 @@ margin-top:50px;
   }
   
 header #button {
-/*   margin-right: 15px; */
+
   position: absolute;
   right:24px;
 }
   #text1{
     width: 327px;
-  font-size:35px;
+  font-size:48px;
 }
   #text1 #span{ 
-    font-size:14px;
+    font-size:16px;
   }
   #text1 #button {
-    padding: 8px;
+    padding: 10px;
   }
   #release-date{
-  margin-left: 8px;
+/*   margin-left: 8px; */
+   position: absolute;
+  right:24px
 }
   #img{
     position: relative;
