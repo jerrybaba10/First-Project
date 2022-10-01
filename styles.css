@@ -419,7 +419,7 @@ margin-left: 35px;
   }
   
   .container2{
-  margin-top: 100px;
+  margin-top: 150px;
   }
   
   .container2 #button-like-edge-left{
@@ -452,9 +452,10 @@ margin: -323px 0px 0px 0px;
   
   .container2 #text{
     display:flex;
-    margin-top:80px;
+/*     margin-top:80px; */
     width:689px; /*900px;*/
-    position:absolute;
+    position:relative;
+    top:80px;
    right:60px;
   }
   
@@ -468,7 +469,7 @@ margin: -323px 0px 0px 0px;
   
   #bottom-grid-container{
     margin-top:142px;
-    column-gap: 50px;
+    column-gap: 100px;
     
   }
   
